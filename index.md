@@ -1,4 +1,4 @@
-# Magnificent Mammals 
+# ✨Magnificent Mammals 
 
 | Name      | Topics of interest | Collaboration  |
 | :---:        |    :----   | :--- |
