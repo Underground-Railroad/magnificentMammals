@@ -31,7 +31,6 @@ ___
   - 6 months of training and consultation with team members and leadership
 - **Sustainable Implementation for the Long Game**
   - 1 year of training and consultation with team members and leadership
-
 <br>
 <br>
 
@@ -40,7 +39,6 @@ ___
 - Theraputic Services
 - Consultation / Supervision
 - Entheogenic Plant & Psychedelic Integration 
-
 <br>
 <br>
 
