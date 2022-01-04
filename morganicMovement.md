@@ -14,7 +14,7 @@ Practicaremos cultivating the body-based resilience necessary to co-create an eq
 **“When one can’t breathe, we all can’t breathe.”**
 
 ## Platforms
-🌐 [Website](https://www.morganvanderpool.com/)
-📸 [Instagram](https://www.instagram.com/morganicmovement/)
-📺 [Youtube](https://www.youtube.com/channel/UCpsBX5flUAdfu90mq22650A)
-👥 [Facebook](https://www.facebook.com/morgan.l.vanderpool)
+- 🌐 [Website](https://www.morganvanderpool.com/)
+- 📸 [Instagram](https://www.instagram.com/morganicmovement/)
+- 📺 [Youtube](https://www.youtube.com/channel/UCpsBX5flUAdfu90mq22650A)
+- 👥 [Facebook](https://www.facebook.com/morgan.l.vanderpool)
