@@ -1,4 +1,5 @@
 # Morgan Vanderpool | [@MorganxMovement](https://twitter.com/MorganxMovement)
+> Occupied Duwamish Territory
 
 ![mv](https://pbs.twimg.com/profile_images/1464066554954346500/6WSoLWpy_400x400.jpg)
 
