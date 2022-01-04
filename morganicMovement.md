@@ -23,7 +23,7 @@ Practicaremos cultivating the body-based resilience necessary to co-create an eq
 ___
 
 ### Team Trainings
-- **Introductory Experience **
+- **Introductory Experience**
   - 1-2 day training options
 - **Foundation Laying & Deconstruction**
   - 8 half-day trainings over 3-4 months
@@ -32,13 +32,19 @@ ___
 - **Sustainable Implementation for the Long Game**
   - 1 year of training and consultation with team members and leadership
 
+<br>
+<br>
+
 ### One on one services
 > These services are designed for folx who work best one-on-one and/or are interested in exploring the impacts of interlocking systems of oppression interpersonally.
 - Theraputic Services
 - Consultation / Supervision
 - Entheogenic Plant & Psychedelic Integration 
 
-### Media + Public Content
+<br>
+<br>
+
+## Media + Public Content
 - 🎙️Podcast : [Chris Talks with Morgan Vanderpool](https://open.spotify.com/episode/14pGAaOQTJ609IvJOFxhaF?si=xZwnLmTSQA6Ovn8VKOf15w)
 - 📺 [Anti-oppression and activism health and action](https://www.youtube.com/watch?v=_FLTudKDjoA)
 - 📺 [Body-Based Intersectional Counter Transference](https://youtu.be/lS-B7XwHt64)
