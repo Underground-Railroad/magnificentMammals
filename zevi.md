@@ -14,4 +14,4 @@ inter disciplinart immersive art experience in the commons = gather = weave
   + typewritten manuscript
 
 ## Platforms 
-
+📸 [Instagram](https://www.instagram.com/__zevisway__/)
