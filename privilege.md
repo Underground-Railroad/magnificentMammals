@@ -1,5 +1,7 @@
 # [Being-in-the-Room Privilege](https://www.thephilosopher1923.org/essay-taiwo): Elite Capture and Epistemic Deference 
-> From The Philosopher, vol. 108, no. 4 ("What is We?"). 
+> Olúfémi O. Táíwò
+> >
+From The Philosopher, vol. 108, no. 4 ("What is We?"). 
 
 > “The cunning of trauma politics is that it turns actual people and struggles, whether racial or Indigenous citizenship and belonging, into matters of injury. It defines an entire people mostly on their trauma and not by their aspirations or sheer humanity”. This performance is not for the benefit of Indigenous people, but “for white audiences or institutions of power”. 
 
