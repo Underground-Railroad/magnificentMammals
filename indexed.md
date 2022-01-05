@@ -12,7 +12,7 @@
 | [Morgan Vanderpool](morganicMovement.md) | Decolonization, Trauma, Restorative Justice | Podcast, Twitter-spaces, IG Live, Mentor/Mentee |   
 | [Scarlet Parke](scarletPark.md)  | Tour, community build, NFT's | Podcast, Community / Web3 establishment |  
 | [Vincent](vincent.md)  |Lakota Vision, NFT's, ENS, self sustaining micro economies | Building community protocols, Podcast, Writing [Mirror?], Mentor/Mentee|  
-
+| [Zevi](zevi.md) | Internalized threads of capitalism, Isolation Culture | Podcast, Writing |
  
 [❤️](https://miro.com/app/board/uXjVOZg1NW8=/?invite_link_id=305437653084)
 
