@@ -14,5 +14,5 @@
 | [Vincent](vincent.md)  |Lakota Vision, NFT's, ENS, self sustaining micro economies | Building community protocols, Podcast, Writing [Mirror?], Mentor/Mentee|  
 
  
-
+[❤️](https://miro.com/app/board/uXjVOZg1NW8=/?invite_link_id=305437653084)
 
