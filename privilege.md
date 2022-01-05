@@ -28,7 +28,7 @@ I find these sorts of things to be a distraction to the bigger issue >> who is p
 
 - [4] : I feel like a prime example of this. I have no degrees from college and I want to write trauma informed philosophy, lacking accreditation I am collaborating with folks like [Kelly Page, Ph.D](https://twitter.com/drkellypage) The first piece I started jamming on is Narcissism in technology, to demonstrate what is behaviorally happening to people // physiological abuse occurring under the hood of certain algorithms during this global pandemic. Both myself and society can benefit from this arrangement, I get to express my understandings and valid frustrations and everyone gets the social validation they need when they see i'm not alone in my ideology, someone they can relate to has similar beliefs.  [cutting through the social psychological red tape]
 
-+ "shaped by people who have ever more specific practical advice"
+> "shaped by people who have ever more specific practical advice"
 + I often witness many things occurring across the spectrum socially here:
   + people identifying as "white" have learned the "right things" to do or say to appear and behave in a politically correct fashion.It’s usually just signaling through and to often to other folx who identify as “white” 
     + blinder: saviorism // folx act in the best interest of others based on rhetoric they have heard primarily from other "white" "woke" people...folx with alphabet pasta behind their names, perhaps or well respected, not often does the advice even come from marginalized groups much less the ones present in the room or better yet those who have not been invited to these “high content” conversations.  
