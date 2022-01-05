@@ -3,6 +3,7 @@
 | Name      | Topics of interest | Collaboration  |
 | :---:        |    :----   | :--- |
 | [Adam One](adam.md)  | Art, Culture, NFT's? | Podcast |
+| [Alexis](alexis.md)  |Leveraging Power financial advisory board lawyers / home / legal taxes | Podcast [ask] | 
 | [Harold](harold.md) | Peaceful dialoge, intrinsic power vs motivation | podcast, Live/ Recorded video talks| 
 | [Hz](hz.md)   | shit talk web3, counter culture, redistribution of wealth and power   | Twitter-Spaces  |  
 | [Gabrielle Oakhart](Gabriel.md)  | Music, Healing, Art, web3 exposure / potential  | Podcast, Mentor/Mentee|  
@@ -14,4 +15,4 @@
 
  
 
-  
+
