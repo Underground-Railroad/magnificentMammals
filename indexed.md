@@ -3,11 +3,14 @@
 | vibe | Humxn      | Topics of interest | Collaboration ideas | consent| 📅 | Notes |
 |:---: | :---:        |    :----   | :--- | :---: | :--: | :---|
 |🎨| [Adam One](adam.md)  | Art, Culture, NFT's? | Podcast | seek | 12.25.22 | Prophetic Art |
-|🧠| [Alexis](alexis.md)  |Leveraging Power financial advisory board lawyers / home / legal taxes | Podcast : [afroDAO]()/[40Acres]()) | seek | observed 1.3.22 | Black empowerment! |
-|💜| [Harold](harold.md) | [MM] Peaceful dialoge, intrinsic power vs motivation | podcast, Live/ Recorded video talks| confirm | 1.3.22 | awakening indigenous modes of thinking |
+|🧠| [Alexis](alexis.md)  |Leveraging Power financial advisory board lawyers / home / legal taxes | Podcast : [afroDAO](https://twitter.com/AFRODAO)/[40Acres](https://twitter.com/40acresdao)) | seek | observed 1.3.22 | Black empowerment! |
+|🦁| [Darrick Lionijah](darrick.md) | AI, social movements, identity crisis, spiritual bypassing is a trauma response| Podcast / Film |consented | reach |🔥time / [create profile] |  
+|💜| [Harold](harold.md) | [MM] Peaceful dialogue, intrinsic power vs motivation | podcast, Live/ Recorded video talks| confirm | 1.3.22 | awakening indigenous modes of thinking |
 |💻| [Hz](hz.md) | [MM] shit talk web3, counter culture, redistribution of wealth and power | Twitter-Spaces  | seek | 1.3.22 | stacks advocacy program |
 |🪄| [Gabriel Oakheart](Gabriel.md)  | [MM] Music, Healing, Art, web3 exposure / potential  | Podcast, Mentor/Mentee| seek | 1.4.22 | |
+|🐝| [geleeroyale](geleeroyale.md) | Bridging communities | server bridging party in Feb | consent| 2.11/14/18.22 |
 |🎮| [Kevin Siegler ⚔️](kevin.md.md)  | [MM] Identities, Prophetic visioning | Podcast, $ALO Token | confirm | 12.22.21 | |
+|🥷|[Kelly Page, Ph.D](https://twitter.com/drkellypage) |[MM] Designing for Diversity and Inclusion, Culture, Trauma and Tech | consented| 1.6.22 |Narcissism in Tech|
 |💎| [Lux](lux.md)  | Conflict, Accountability, Consent | Podcast, Workshops in web3 ecosystem | confirm | 12.22.21 | 1:1 draft forum proposals for workshops |
 |🍄| [Morgan Vanderpool](morganicMovement.md) | [MM] Decolonization, Trauma, Restorative Justice | Podcast, Twitter-spaces, IG Live, Mentor/Mentee | consented | 1.6/7.22 |Schedule Instagram / talk Queer retreat |
 |👾| [Paul Mullins](paul.md) | [MM] Dentropy! / Social Entropy! | collaborating, podcast | confirm| 1.5.22 | create profile |
@@ -33,7 +36,7 @@
 |💰| [Dework](https://dework.xyz/o/gravity-dao-4UHhckKWxf8whABj2pY8mV)| Dework is a web3 project management tool that can execute the payment of bounties| [gravity bounties](https://dework.xyz/o/gravity-dao-4UHhckKWxf8whABj2pY8mV/p/training-and-7BGDkdjAK9Fh6c4clekm2E?inviteId=f5dd47d6-bccb-4551-b138-c6ee7bfbd08e) | Juan Bell |
 |💰|[tip.party](https://tip.party/)|Tip Party allows you to easily drop any ERC-20 token to contributors of a DAO.||moonshot collective|
 |💰|[pay.party](https://pay.party/)|Instead of token allocation being driven by central parties, the entire collective can decide how many tokens each member of the collective gets||moonshot collective|
-|🏗|[scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)|everything you need to build on Ethereum! 🚀|| Griff/github |
+|🏗|[scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)|everything you need to build on Ethereum! 🚀|| creepin on github |
 |🐵|[coordinape](https://coordinape.com/)| compensation tool |expertimented w/ incentives scholars / [TEC Labs: Coordinape Overview](https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit?usp=drivesdk)|n/a|
 |🌞|[BrightID](https://www.brightid.org/)|nonintrusive, decentralized, open-source technology seeking to reform identity verification|collecting emails / prep for SC / Bankless / ShineDAO |n/a|
 ||||||
