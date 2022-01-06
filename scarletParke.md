@@ -94,5 +94,19 @@
 
 ![teri](https://cdn.discordapp.com/attachments/894474009759084564/927817473477197865/unknown.png)
 
+## SPIRITUAL
+> permissionary
++ childlike wonder 
+seen and heard
+
+## Vision Board 
++ what does it feel like 
+
+## Rituals 
++ affirmations
 
 
+### Server:
+
+## Mentorship
++ music
