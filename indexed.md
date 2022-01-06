@@ -1,16 +1,16 @@
 # ✨ Magnificent Mammals ✨
 
 | vibe | Humxn      | Topics of interest | Collaboration ideas | consent| 📅 | Notes |
-|:---: | :---:        |    :----   | :--- | :---: | :--: | :---|
+|:---: | :---:        |    :----   | :--- | :---: | :--: | :---:|
 |🎨| [Adam One](adam.md)  | Art, Culture, NFT's? | Podcast | seek | 12.25.22 | Prophetic Art |
 |🧠| [Alexis](alexis.md)  |Leveraging Power financial advisory board lawyers / home / legal taxes | Podcast : [afroDAO](https://twitter.com/AFRODAO)/[40Acres](https://twitter.com/40acresdao)) | seek | observed 1.3.22 | Black empowerment! |
 |🦁| [Darrick Lionijah](darrick.md) | AI, social movements, identity crisis, spiritual bypassing is a trauma response| Podcast / Film |consented | reach |🔥time|  
 |💜| [Harold](harold.md) | [MM] Peaceful dialogue, intrinsic power vs motivation | podcast, Live/ Recorded video talks| confirm | 1.3.22 | awakening indigenous modes of thinking |
 |💻| [Hz](hz.md) | [MM] shit talk web3, counter culture, redistribution of wealth and power | Twitter-Spaces  | seek | 1.3.22 | stacks advocacy program |
 |🪄| [Gabriel Oakheart](Gabriel.md)  | [MM] Music, Healing, Art, web3 exposure / potential  | Podcast, Mentor/Mentee| seek | 1.4.22 | |
-|🐝| [geleeroyale](geleeroyale.md) | Bridging communities | server bridging party in Feb | consent| 2.11/14/18.22 |
-|🎮| [Kevin Siegler ⚔️](kevin.md.md)  | [MM] Identities, Prophetic visioning | Podcast, $ALO Token | confirm | 12.22.21 | |
-|🥷| [Kelly Page, Ph.D](kelly.md) |[MM] Designing for Diversity and Inclusion, Culture, Trauma and Tech | consented| 1.6.22 |Narcissism in Tech|
+|🐝| [geleeroyale](geleeroyale.md) | Bridging communities | server bridging party in Feb | consent| 2.11/14/18.22 | |
+|🎮| [Kevin Siegler ⚔️](kevin.md.md)  | [MM] Identities, Prophetic visioning | Podcast, $ALO Token | confirm | 12.22.21 |[📅](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUxGaVU4NXhKSU9sfGRlZmF1bHR8NDgwOGJlMDI1NzZkZmU3ZWI2M2ZmYTJjOTJlOGFmMzI)|
+|🥷| [Kelly Page, Ph.D](kelly.md) |[MM] Designing for Diversity and Inclusion, Culture, Trauma and Tech | consented| 1.6.22 |Narcissism in Tech / schedule 1:1|
 |💎| [Lux](lux.md)  | Conflict, Accountability, Consent | Podcast, Workshops in web3 ecosystem | confirm | 12.22.21 | 1:1 draft forum proposals for workshops |
 |🍄| [Morgan Vanderpool](morganicMovement.md) | [MM] Decolonization, Trauma, Restorative Justice | Podcast, Twitter-spaces, IG Live, Mentor/Mentee | consented | 1.6/7.22 |Schedule Instagram / talk Queer retreat |
 |👾| [Paul Mullins](paul.md) | [MM] Dentropy! / Social Entropy! | collaborating, podcast | confirm| 1.5.22 | create profile |
