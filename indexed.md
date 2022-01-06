@@ -45,7 +45,7 @@
 |🐵|[coordinape](https://coordinape.com/)| compensation tool |expertimented w/ incentives scholars / [TEC Labs: Coordinape Overview](https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit?usp=drivesdk)|n/a|
 |🌞|[BrightID](https://www.brightid.org/)|nonintrusive, decentralized, open-source technology seeking to reform identity verification|collecting emails / prep for SC / Bankless / ShineDAO |n/a|
 
-
+___
 
 ### 📌 Grants 
 + [**Polygon**](https://forum.polygon.technology/c/grants/11) "Polygon foundation will seed the Polygon Ecosystem DAO with $1 MN"
