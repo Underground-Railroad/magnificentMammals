@@ -65,7 +65,7 @@ Receive up to $1M by competing in the DAO Race. Join in 5 min and be voted on by
 
 + [**Moonshot Collective**](https://moonshotcollective.space/) : Born from gitcoin I think…The Moonshot collective gathers once a month to receive new pitches. [dev stuff building out rad web3 ecosystem]
 
-## TO DO 
+## // TO DO 
 + add ben > @HiredThought > 📅 12 Wed 11am pst 2pm et
 + make Akorn page
 + kanani.eth > Level 1 [completed first module they released wahoo!]
