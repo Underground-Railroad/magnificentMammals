@@ -1,6 +1,6 @@
-# ✨Magnificent Mammals 
+# ✨ Magnificent Mammals ✨
 
-| vibe | Name      | Topics of interest | Collaboration ideas | consent| 📅 | Notes |
+| vibe | Humxn      | Topics of interest | Collaboration ideas | consent| 📅 | Notes |
 |:---: | :---:        |    :----   | :--- | :---: | :--: | :---|
 |🎨| [Adam One](adam.md)  | Art, Culture, NFT's? | Podcast | seek | 12.25.22 | Prophetic Art |
 |🧠| [Alexis](alexis.md)  |Leveraging Power financial advisory board lawyers / home / legal taxes | Podcast : [afroDAO]()/[40Acres]()) | seek | observed 1.3.22 | Black empowerment! |
@@ -11,11 +11,11 @@
 |💎| [Lux](lux.md)  | Conflict, Accountability, Consent | Podcast, Workshops in web3 ecosystem | confirm | 12.22.21 | 1:1 draft forum proposals for workshops |
 |🍄| [Morgan Vanderpool](morganicMovement.md) | [MM] Decolonization, Trauma, Restorative Justice | Podcast, Twitter-spaces, IG Live, Mentor/Mentee | consented | 1.6/7.22 |Schedule Instagram / talk Queer retreat |
 |👾| [Paul Mullins](paul.md) | [MM] Dentropy! / Social Entropy! | collaborating, podcast | confirm| 1.5.22 | create profile |
-|🚀| [𝒟𝒥 𝕊ahara 𝕓𝕦𝕓𝕓𝕝𝕪𝕠𝕣𝕔𝕒.eth](Sahara.md) | 𝑻̲̅𝒉̲̅𝒆̲̅ 𝑵̲̅𝒆̲̅𝒘̲̅ 𝑴̲̅𝒂̲̅𝒕̲̅𝒓̲̅𝒊̲̅𝒂̲̅𝒓̲̅𝒄̲̅𝒉̲̅𝒚̲̅, the monetary result of Black Unity, culture | Podcast, Twitterspaces, collaboratin'| consented | 1.1.22 |[create profile] | 
-|🎨| [Seth](seth.md) | anarchy and crypto, dystopian realities? culture / art | Podcast [motivate 🎨] | seek |1.4.22 |  |
-|🚀| [Scarlet Parke](scarletParke.md)  | Tour, community build, NFT's | Podcast, Community / Web3 establishment | consented | 1.6.22 | create profile  |
+|🚀| [𝒟𝒥 𝕊ahara 𝕓𝕦𝕓𝕓𝕝𝕪𝕠𝕣𝕔𝕒.eth](Sahara.md) | 𝑻̲̅𝒉̲̅𝒆̲̅ 𝑵̲̅𝒆̲̅𝒘̲̅ 𝑴̲̅𝒂̲̅𝒕̲̅𝒓̲̅𝒊̲̅𝒂̲̅𝒓̲̅𝒄̲̅𝒉̲̅𝒚̲̅, the monetary result of Black Unity, culture | Podcast, Twitterspaces, collaboratin'| consented | 1.1.22 |all in| 
+|🎨| [Seth](seth.md) | anarchy and crypto, dystopian realities? culture / art | Podcast [motivate 🎨] | seek |1.4.22 | create profile |
+|🚀| [Scarlet Parke](scarletParke.md)  | Tour, community build, NFT's | Podcast, Community / Web3 establishment | consented | 1.6.22 | |
 |🎼 | [Octopus](octopus.md)  | Math and Music, Culture | Podcast? | seek | 1.7.22 | |
-|🌳| [Terexitarius](terexitarius.md) | Regenerative Economies, Environmental activism, geospatial imagery and climate change | Podcast? | seek |1.4.22| rebranding >[Akorn](https://twitter.com/AkornMarket) |
+|🌳| [Terexitarius](terexitarius.md) | Regenerative Economies, Environmental activism, geospatial imagery and climate change | Podcast? | seek |1.4.22| rebranding >[Akorn](https://twitter.com/AkornMarket)  create profile |
 |🚀| [Vincent](vincent.md)  | [MM] Lakota Vision, NFT's, ENS, self sustaining micro economies | Building community protocols, Podcast, Writing [Mirror?], Mentor/Mentee| confirm | daily 🤓 | [NFTHack](https://nfthack.ethglobal.co/) Jan 14-16th |
 |🕸️| [Zevi](zevi.md) | Internalized threads of capitalism, Isolation Culture, yt supremacy disruption  | Podcast, Writing | confirm | 1.5.22 | conflict/care in SC community | 
 
@@ -26,12 +26,17 @@
 <br>
 
 # 🛠️ Cool Tools
-| vibe | cool thing     | what for? | notes |❤️|
+| vibe | cool thing     | what for? | notes |❤️ who showed me?|
 |:---: | :---: | :---- | :--- | :---: |
+|🌾| [SourceCred](https://linktr.ee/sourcecred)|A tool for communities to measure and reward value creation.||Carey French|
 |🪙| [Roll]( https://tryroll.com/) | The new standard in social money | | Terexitarius |
-|💰| [Dework](https://dework.xyz/o/gravity-dao-4UHhckKWxf8whABj2pY8mV)| Dework is a web3 project management tool that can execute the payment of bounties| [gravity bounties]() | Juan Bell |
+|💰| [Dework](https://dework.xyz/o/gravity-dao-4UHhckKWxf8whABj2pY8mV)| Dework is a web3 project management tool that can execute the payment of bounties| [gravity bounties](https://dework.xyz/o/gravity-dao-4UHhckKWxf8whABj2pY8mV/p/training-and-7BGDkdjAK9Fh6c4clekm2E?inviteId=f5dd47d6-bccb-4551-b138-c6ee7bfbd08e) | Juan Bell |
+|💰|[tip.party](https://tip.party/)|Tip Party allows you to easily drop any ERC-20 token to contributors of a DAO.||moonshot collective|
+|💰|[pay.party](https://pay.party/)|Instead of token allocation being driven by central parties, the entire collective can decide how many tokens each member of the collective gets||moonshot collective|
+|🏗|[scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)|everything you need to build on Ethereum! 🚀|| Griff/github |
+|🐵|[coordinape](https://coordinape.com/)| compensation tool |expertimented w/ incentives scholars / [TEC Labs: Coordinape Overview](https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit?usp=drivesdk)|n/a|
+|🌞|[BrightID](https://www.brightid.org/)|nonintrusive, decentralized, open-source technology seeking to reform identity verification|collecting emails / prep for SC / Bankless / ShineDAO |n/a|
 ||||||
-
 
 
 ### 📌 Grants 
