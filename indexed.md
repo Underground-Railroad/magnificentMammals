@@ -1,11 +1,11 @@
 # ✨Magnificent Mammals 
 
-| | Name      | Topics of interest | Collaboration ideas | consent| 📅 | Notes |
-|:---: | :---:        |    :----   | :--- | :---: | --: | :---|
+| vibe | Name      | Topics of interest | Collaboration ideas | consent| 📅 | Notes |
+|:---: | :---:        |    :----   | :--- | :---: | :--: | :---|
 |🎨| [Adam One](adam.md)  | Art, Culture, NFT's? | Podcast | seek | 12.25.22 | Prophetic Art |
 |🧠| [Alexis](alexis.md)  |Leveraging Power financial advisory board lawyers / home / legal taxes | Podcast | seek | observed 1.3.22 | Black empowerment! |
 |💜| [Harold](harold.md) | [MM] Peaceful dialoge, intrinsic power vs motivation | podcast, Live/ Recorded video talks| confirm | 1.3.22 | awakening indigenous modes of thinking |
-|🤡| [Hz](hz.md) | [MM] shit talk web3, counter culture, redistribution of wealth and power | Twitter-Spaces  | seek | 1.3.22 | stacks advocacy program |
+|💻| [Hz](hz.md) | [MM] shit talk web3, counter culture, redistribution of wealth and power | Twitter-Spaces  | seek | 1.3.22 | stacks advocacy program |
 |🪄| [Gabriel Oakheart](Gabriel.md)  | [MM] Music, Healing, Art, web3 exposure / potential  | Podcast, Mentor/Mentee| seek | 1.4.22 | |
 |🎮| [Kevin Siegler ⚔️](kevin.md.md)  | [MM] Identities, Prophetic visioning | Podcast, $ALO Token | confirm | 12.22.21 | |
 |💎| [Lux](lux.md)  | Conflict, Accountability, Consent | Podcast, Workshops in web3 ecosystem | confirm | 12.22.21 | 1:1 draft forum proposals for workshops |
