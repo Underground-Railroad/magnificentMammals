@@ -64,3 +64,8 @@ Receive up to $1M by competing in the DAO Race. Join in 5 min and be voted on by
 + [**web3.foundation**]( https://web3.foundation/grants/) “Our Grants Program offers recurring grants of up to $100k for public applications, which are tracked transparently on Github and disbursed in cryptocurrencies. Exceptions to these requirements and higher funding are also possible.”
 
 + [**Moonshot Collective**](https://moonshotcollective.space/) : Born from gitcoin I think…The Moonshot collective gathers once a month to receive new pitches. [dev stuff building out rad web3 ecosystem]
+
+## TO DO 
++ add ben > @HiredThought > 📅 12 Wed 11am pst 2pm et
++ make Akorn page
++ kanani.eth > Level 1 [completed first module they released wahoo!]
