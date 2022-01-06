@@ -35,8 +35,8 @@ Altogether, she merges facets of leadership, the desire to flourish in uncomfort
 
 
 ## Platforms
-🐦 [Twitter](https://twitter.com/saharasoundz)
-🎹 [soundcloud](https://soundcloud.com/saharasoundz) 
-📸 [blockchainculture](https://www.instagram.com/blockchainculture/) 
-📝 [Medium](https://bubblyorca.medium.com/)
-💼 [LinkedIn](https://www.linkedin.com/in/jasminesbrunson/)
+🐦 [Twitter](https://twitter.com/saharasoundz) <br>
+🎹 [soundcloud](https://soundcloud.com/saharasoundz) <br>
+📸 [blockchainculture](https://www.instagram.com/blockchainculture/) <br>
+📝 [Medium](https://bubblyorca.medium.com/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/jasminesbrunson/) <br>
