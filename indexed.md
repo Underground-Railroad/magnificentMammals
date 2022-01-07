@@ -13,11 +13,11 @@
 |🥷| [Kelly Page, Ph.D](kelly.md) |[MM]| Designing for Diversity and Inclusion, Culture, Trauma and Tech | consented| 1.6.22 |Narcissism in Tech / schedule 1:1|
 |💎| [Lux](lux.md)  || Conflict, Accountability, Consent | Podcast, Workshops in web3 ecosystem | confirm | 12.22.21 | 1:1 draft forum proposals for workshops |
 |🍄| [Morgan Vanderpool](morganicMovement.md) | [MM]| Decolonization, Trauma, Restorative Justice | Podcast, Twitter-spaces, IG Live, Mentor/Mentee | consented | 1.6/7.22 |Schedule Instagram / talk Queer retreat |
+|🎼 | [Octopus](octopus.md)  || Math and Music, Culture | Podcast? | seek | 1.13.22 @ 130pm | |
 |👾| [Paul Mullins](paul.md) | [MM]| Dentropy! / Social Entropy! | collaborating, podcast | confirm| 1.5.22 | connect with vincent / hack a thon?|
 |🚀| [𝒟𝒥 𝕊ahara 𝕓𝕦𝕓𝕓𝕝𝕪𝕠𝕣𝕔𝕒.eth](Sahara.md) |[A]| 𝑻̲̅𝒉̲̅𝒆̲̅ 𝑵̲̅𝒆̲̅𝒘̲̅ 𝑴̲̅𝒂̲̅𝒕̲̅𝒓̲̅𝒊̲̅𝒂̲̅𝒓̲̅𝒄̲̅𝒉̲̅𝒚̲̅, the monetary result of Black Unity, culture | Podcast, Twitterspaces, collaboratin'| consented | 1.1.22 |all in| 
 |🎨| [Seth](seth.md) || anarchy and crypto, dystopian realities? culture / art | Podcast [motivate 🎨] | seek |1.4.22 | create profile |
 |🚀| [Scarlet Parke](scarletParke.md)  |[A]| Tour, community build, NFT's | Podcast, Community / Web3 establishment | consented | 1.6.22 | manifest / community build |
-|🎼 | [Octopus](octopus.md)  || Math and Music, Culture | Podcast? | seek | 1.7.22 | 1.13.22 @ 130pm|
 |🌳| [Terexitarius](terexitarius.md) |[A]| Regenerative Economies, Environmental activism, geospatial imagery and climate change | Podcast? | seek |1.4.22| rebranding >[Akorn](https://twitter.com/AkornMarket)  create profile |
 |🚀| [Vincent](vincent.md)  |[MM]| Lakota Vision, NFT's, ENS, self sustaining micro economies | Building community protocols, Podcast, Writing [Mirror?], Mentor/Mentee| confirm | daily 🤓 ish | [NFTHack](https://nfthack.ethglobal.co/) Jan 14-16th |
 |🕸️| [Zevi](zevi.md) || Internalized threads of capitalism, Isolation Culture, yt supremacy disruption  | Podcast, Writing | confirm | 1.5.22 | conflict/care in SC community | 
@@ -65,9 +65,32 @@ Receive up to $1M by competing in the DAO Race. Join in 5 min and be voted on by
 
 + [**Moonshot Collective**](https://moonshotcollective.space/) : Born from gitcoin I think…The Moonshot collective gathers once a month to receive new pitches. [dev stuff building out rad web3 ecosystem]
 
+___
+
 ## // TO DO 
-+ add ben > @HiredThought > 📅 12 Wed 11am pst 2pm et
++ add ben > @HiredThought > profile
 + make Akorn page
 + kanani.eth > Level 1 [completed first module they released wahoo!]
 + work on research >> rewards systems // diversity & inclusion
 + free write = 33 mins [💎](https://docs.google.com/document/d/1y-q4U-EEi3cRvy5_O8sxoTG5xMS9hh1YO-38oASfrsM/edit?usp=sharing) 
+
+# 📅
+> ### W 5 
+- 🪲's 13th cycle around the 🌞
+> ### T 6
+> - rewards research 8-10am
+- Diversity & Inclusion noon - 2
+- Pair coded with @streamerd // made a thang : [Offset Movement](https://github.com/orgs/Offset-Movement/projects)
+> ### F 7
+> ### S 8
+> ### S 9
+> ### M 10 
+> ### T 11
+> - rewards research 8-10am
+> ### W 12
+- ben > @HiredThought > 11am pst 2pm et
+> ### T 13
+> - rewards research 8-10am
+- Octopus > 130pm pst
+> ### F 14
+
