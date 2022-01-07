@@ -83,14 +83,22 @@ ___
 - Pair coded with @streamerd // made a thang : [Offset Movement](https://github.com/orgs/Offset-Movement/projects)
 > ### F 7
 > ### S 8
+- 🪲
 > ### S 9
+- Dance > charge speaker 
 > ### M 10 
+- Communitas wg 8pm [berlin] 11am pst
 > ### T 11
-> - rewards research 8-10am
+- TEC Soft Gov Param Special 7pm [berlin] 10am pst [📝](https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#)
+- rewards research 8-10am
+- TEC Gravity Weekly Synch 8pm [berlin] 11am pst [📝](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit#)
 > ### W 12
 - ben > @HiredThought > 11am pst 2pm et
+- TEC Rewards WG Weekly 
+- 0mega WG weekly sync [📝](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.1nbej8d3rkry)
 > ### T 13
 > - rewards research 8-10am
 - Octopus > 130pm pst
 > ### F 14
+- 🌉 ?
 
