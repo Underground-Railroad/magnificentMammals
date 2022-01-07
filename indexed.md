@@ -1,7 +1,7 @@
 # ✨ Magnificent Mammals ✨
 
-| vibe | Humxn      | |Topics of interest | Collaboration ideas | consent| 📅 | Notes |
-|:---: | :---:        |:---: |    :----   | :--- | :---: | :--: | :---:|
+| vibe | Humxn      |🤝 |🤓 | Manifest | Consent| 📅 | Manifest |
+|:---: | :---:        |:---: |    :----:   | :---: | :---: | :--: | :---:|
 |🎨| [Adam One](adam.md) |[A]| Art, Culture, NFT's? | Podcast | seek | 12.25.22 | Prophetic Art |
 |🧠| [Alexis](alexis.md) | |Leveraging Power financial advisory board lawyers / home / legal taxes | Podcast : [afroDAO](https://twitter.com/AFRODAO)/[40Acres](https://twitter.com/40acresdao)) | seek | observed 1.3.22 | Black empowerment! |
 |🦁| [Darrick Lionijah](darrick.md) || AI, social movements, identity crisis, spiritual bypassing is a trauma response| Podcast / Film |consented | reach |🔥time|  
@@ -19,7 +19,7 @@
 |🚀| [Scarlet Parke](scarletParke.md)  |[A]| Tour, community build, NFT's | Podcast, Community / Web3 establishment | consented | 1.6.22 | manifest / community build |
 |🎼 | [Octopus](octopus.md)  || Math and Music, Culture | Podcast? | seek | 1.7.22 | 1.13.22 @ 130pm|
 |🌳| [Terexitarius](terexitarius.md) |[A]| Regenerative Economies, Environmental activism, geospatial imagery and climate change | Podcast? | seek |1.4.22| rebranding >[Akorn](https://twitter.com/AkornMarket)  create profile |
-|🚀| [Vincent](vincent.md)  |[MM]| Lakota Vision, NFT's, ENS, self sustaining micro economies | Building community protocols, Podcast, Writing [Mirror?], Mentor/Mentee| confirm | daily 🤓 | [NFTHack](https://nfthack.ethglobal.co/) Jan 14-16th |
+|🚀| [Vincent](vincent.md)  |[MM]| Lakota Vision, NFT's, ENS, self sustaining micro economies | Building community protocols, Podcast, Writing [Mirror?], Mentor/Mentee| confirm | daily 🤓 ish | [NFTHack](https://nfthack.ethglobal.co/) Jan 14-16th |
 |🕸️| [Zevi](zevi.md) || Internalized threads of capitalism, Isolation Culture, yt supremacy disruption  | Podcast, Writing | confirm | 1.5.22 | conflict/care in SC community | 
 
 #### L E G E N D 
@@ -69,3 +69,5 @@ Receive up to $1M by competing in the DAO Race. Join in 5 min and be voted on by
 + add ben > @HiredThought > 📅 12 Wed 11am pst 2pm et
 + make Akorn page
 + kanani.eth > Level 1 [completed first module they released wahoo!]
++ work on research >> rewards systems // diversity & inclusion
++ free write = 33 mins [💎](https://docs.google.com/document/d/1y-q4U-EEi3cRvy5_O8sxoTG5xMS9hh1YO-38oASfrsM/edit?usp=sharing) 
