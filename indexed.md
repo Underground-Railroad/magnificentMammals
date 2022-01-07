@@ -89,6 +89,7 @@ ___
 > ### S 9
 - Dance > charge speaker 
 > ### M 10 
+- Maya 10sm pst
 - Communitas wg 8pm [berlin] 11am pst
 > ### T 11
 - TEC Soft Gov Param Special 7pm [berlin] 10am pst [📝](https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#)
