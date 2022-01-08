@@ -6,6 +6,8 @@
 + transparency
   + define // model 
 + roles // communication streams
++ power // dissolution of
++ implicit bias // conditioned competitiveness [ re: incentives / rewards ]
 
 
 ### C O L L A B O R A T I O N
@@ -13,6 +15,7 @@
 + standards of practice
 + working groups // size
 + planning // organization // tooling based on aesthetics and ergonomics per person
++ implicit bias // conditioned competitiveness [ re: power // leadership // fear of heiarchies overcorrection : lack of structure ] 
 
 
 ### M E N T A L + H E A L T H 
@@ -50,6 +53,6 @@
 + autonomy
 + disassociating
   + getting grounded // many methods for 
-+ 
+ 
 
-
+> this page is an ongoing work in progress [[ just like my ideology ]]
