@@ -109,6 +109,7 @@
 - 9am pst // **Maya** <br>
 - 10am pst hair ✂️ <br>
 - 11am pst // 8pm [berlin] **Communitas wg**
+- 1230 pst Vy_vyy_vi pair : @graviton in Token Engineering Commons to signal to collective 
 
 ___
 
