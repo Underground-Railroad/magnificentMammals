@@ -20,7 +20,11 @@ If you have any questions for William, ask them on our Q&A thread for this post!
 
 
 ## Platforms
-[Twitter](https://twitter.com/zen_bacon)
-[Medium](https://medium.com/@seth.benton)
-[SourceCred Discourse]()
-[Maker Forum](https://forum.makerdao.com/u/s_ben/summary)
+- [Twitter](https://twitter.com/zen_bacon)
+- [Medium](https://medium.com/@seth.benton)
+- [SourceCred Discourse](https://discourse.sourcecred.io/u/s_ben/summary)
+- [Maker Forum](https://forum.makerdao.com/u/s_ben/summary)
+
+![m](https://cdn.discordapp.com/attachments/918836299555811338/929450859685896202/unknown.png)
+
+![sc](https://cdn.discordapp.com/attachments/918836299555811338/929452233874096129/unknown.png)
