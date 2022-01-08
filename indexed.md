@@ -106,9 +106,9 @@
 - Dance > charge speaker
 
 <h2 align="center"> Monday 10</h2>
-- 9am pst // **Maya** <br>
+- 9am pst // Maya <br>
 - 10am pst hair ✂️ <br>
-- 11am pst // 8pm [berlin] **Communitas wg**<br>
+- 11am pst // 8pm [berlin] Communitas wg<br>
 - 1230 pst Vy_vyy_vi pair : @graviton in Token Engineering Commons to signal to collective 
 
 <h2 align="center"> Tuesday 11</h2>
@@ -120,13 +120,13 @@
 - 11am pst 2pm et // ben > @HiredThought <br>
 - 11am // 130pm pst TEC Rewards WG Weekly <br>
 - 11am // 0mega WG weekly sync <a href="https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.1nbej8d3rkry">📝</a> <br>
-- 3pm Hosting Queer AF SourceCred Server <br>
-![pride](https://media.giphy.com/media/lqp9adcqRkaqeIv7cv/giphy.gif)
+- 3pm pst 🏳️‍⚧️🏳️‍🌈 Hosting Queer AF SourceCred Server <br>
+
 
 <h2 align="center">Thursday 13</h2>
-- 8-10am // **rewards research** <br>
-- 11am 7pm gmt **DADA** <br>
-- 130pm pst // **Octopus** <br>
+- 8-10am // rewards research <br>
+- 11am 7pm gmt DADA <br>
+- 130pm pst // Octopus <br>
 
 
 <h2 align="center"> Friday 14 </h2>
