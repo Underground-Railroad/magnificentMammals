@@ -86,52 +86,51 @@
 <h2 align="center">Ambitious Aloysious</h2>
 
 
-> ### Wednesday 5
-
+<h2 align="center"> Wednesday 5</h2>
 - 🪲's 13th cycle around the 🌞
 
-> ### Tuesday 6
->
-> - 8-10am // rewards research
 
-- 12- 2 // **Diversity & Inclusion** w/ Jovian
+<h2 align="center"> Thursday 6 </h2>
+
+- 8-10am // rewards research <br>
+- 11am 7pm gmt DAD* = 🚫 missed <br>
+- 12- 2 // Diversity & Inclusion w/ Jovian <br>
 - 5pm pst // Pair coded with @**streamerd** // made a thang : [Offset Movement](https://github.com/orgs/Offset-Movement/projects)
 
-> ### Friday 7
->
-> ### Saturday 8
+<h2 align="center"> Friday 7</h2>
 
-- 🪲
+<h2 align="center"> Saturday 8</h2>
+- 🪲 = ? flooding down south 
 
-> ### Sunday 9
+<h2 align="center"> Sunday 9</h2>
+- 🪲 = ? flooding down south <br>
+- Dance > charge speaker <br>
 
-- Dance > charge speaker
-
-> ### Monday 10
-
-- 10am pst // **Maya**
+<h2 align="center"> Monday 10</h2>
+- 9am pst // **Maya** <br>
+- 10am pst hair ✂️ <br>
 - 11am pst // 8pm [berlin] **Communitas wg**
 
-> ### Tuesday 11
+___
 
-- 7pm [berlin] 10am pst // TEC **Soft Gov** Param Special [📝](https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#)
-- 8-10am // **rewards research**
-- 8pm [berlin] 11am pst TEC **Gravity Weekly** Synch [📝](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit#)
+<h2 align="center"> Tuesday 11</h2>
+- 7pm [berlin] 10am pst // TEC **Soft Gov** Param Special <a href="https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#">📝</a> <br>
+- 8-10am // rewards research <br>
+- 8pm [berlin] 11am pst TEC **Gravity Weekly** Synch <a href="https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit#">📝</a> 
+- 
+<h2 align="center"> Wednesday 12</h2>
+  
+- 11am pst 2pm et // ben > @HiredThought
+- 11am // 130pm pst TEC Rewards WG Weekly
+- 11am // 0mega WG weekly sync <a href="https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.1nbej8d3rkry">📝</a>
 
-> ### Wednesday 12
+<h2 align="center">Thursday 13</h2>
+- 8-10am // **rewards research** <br>
+- 11am 7pm gmt **DADA** <br>
+- 130pm pst // **Octopus** <br>
 
-- 11am pst 2pm et // **ben** > @HiredThought
-- 11am // 130pm pst **TEC Rewards WG** Weekly
-- 11am // **0mega WG** weekly sync [📝](https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.1nbej8d3rkry)
 
-> ### Thursday 13
->
-- 8-10am // **rewards research**
-
-- 130pm pst // **Octopus**
-
-> ### Friday 14
-
+<h2 align="center"> Friday 14 </h2>
 - 🌉 ?
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
