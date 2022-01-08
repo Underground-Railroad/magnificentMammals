@@ -56,7 +56,8 @@ you are not them<br>
 When people expect the worse in one another they enter an energetic realm where the only energy expelled will be exhibited behaviorally in the worst manifetsations of themselves. <br>
 That's just the math of magic. 
 > Two negatives do not make a positive here.<br>
-`- *aloysious.eth*`
+
+`- aloysious.eth`
 
 <br>
 <br>
