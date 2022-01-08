@@ -11,7 +11,13 @@
 
 Know when to pause . . . 
 
-When you start to question "if not me...who?" -> we are being called in : [insert] Radical Rest <br>
+When you start to question "if not me...who?" 👇🏾 <br>
+
+<div align="center">when these thoughts occur : we are being called in <br><br>
+ 
+ 👇🏾
+ 
+ [insert] Radical Rest</div> <br>
 <br>
 <div align="right">Dissonance Cultivation</div></br>
 
