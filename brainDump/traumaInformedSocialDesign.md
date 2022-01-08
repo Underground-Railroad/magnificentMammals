@@ -55,4 +55,4 @@
   + getting grounded // many methods for 
  
 
-> this page is an ongoing work in progress [[ just like my ideology ]]
+> this page is an ongoing work in progress [[ just like my ideologies ]] 🤍
