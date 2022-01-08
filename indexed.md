@@ -103,8 +103,7 @@
 - 🪲 = ? flooding down south 
 
 <h2 align="center"> Sunday 9</h2>
-- 🪲 = ? flooding down south <br>
-- Dance > charge speaker <br>
+- Dance > charge speaker
 
 <h2 align="center"> Monday 10</h2>
 - 9am pst // **Maya** <br>
@@ -119,10 +118,10 @@ ___
 - 8pm [berlin] 11am pst TEC **Gravity Weekly** Synch <a href="https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit#">📝</a> 
 - 
 <h2 align="center"> Wednesday 12</h2>
-  
 - 11am pst 2pm et // ben > @HiredThought
 - 11am // 130pm pst TEC Rewards WG Weekly
 - 11am // 0mega WG weekly sync <a href="https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.1nbej8d3rkry">📝</a>
+- 3pm Hosting Queer AF 
 
 <h2 align="center">Thursday 13</h2>
 - 8-10am // **rewards research** <br>
