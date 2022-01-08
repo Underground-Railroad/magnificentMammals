@@ -12,8 +12,15 @@
 + [@ DAO Rewards Systems Assemblage](https://www.youtube.com/watch?v=fJU5Q3beruE&t=64s)
 
 ## 🎙️ Podcasts
-1️⃣<br>
-2️⃣<br>
+1️⃣ [Dandelion - SourceCred](https://sourcecred.podbean.com/e/dandelion-sourcecred/) - Dec 14th, 2019 <br>
+We interview Dandelion, founder and project lead for the SourceCred project. <br>
+If you have any questions for Dandelion, ask them on our Q&A thread for this post!<br>
+https://discourse.sourcecred.io/t/podcast-1-q-a/318<br>
+2️⃣ [MICHAEL ZARGHAM - SOURCECRED](https://sourcecred.podbean.com/e/michael-zargham-sourcecred/) - Dec 14th, 2019 <br>
+We interview Michael Zargham, founder and CEO of Block Science and longtime SourceCred contributor. <br>
+If you have any questions for Michael, ask them on our Q&A thread for this post! <br>
+https://discourse.sourcecred.io/t/podcast-2-q-a/346 <br>
+<br>
 3️⃣ [WILLIAM CHARGIN - SOURCECRED](https://sourcecred.podbean.com/e/william-chargin-sourcecred/) - Dec 14th, 2019 <br>
 We interview SourceCred contributor William Chargin.<br> 
 If you have any questions for William, ask them on our Q&A thread for this post! : https://discourse.sourcecred.io/t/podcast-3-q-a/349
