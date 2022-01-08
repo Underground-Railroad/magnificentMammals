@@ -108,10 +108,8 @@
 <h2 align="center"> Monday 10</h2>
 - 9am pst // **Maya** <br>
 - 10am pst hair ✂️ <br>
-- 11am pst // 8pm [berlin] **Communitas wg**
+- 11am pst // 8pm [berlin] **Communitas wg**<br>
 - 1230 pst Vy_vyy_vi pair : @graviton in Token Engineering Commons to signal to collective 
-
-___
 
 <h2 align="center"> Tuesday 11</h2>
 - 7pm [berlin] 10am pst // TEC **Soft Gov** Param Special <a href="https://docs.google.com/document/d/1R8yLfht6GvGHr8VDvyZ-sVP1s54rPLY4MtXPBOqHtO0/edit#">📝</a> <br>
@@ -119,10 +117,11 @@ ___
 - 8pm [berlin] 11am pst TEC **Gravity Weekly** Synch <a href="https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit#">📝</a> 
 - 
 <h2 align="center"> Wednesday 12</h2>
-- 11am pst 2pm et // ben > @HiredThought
-- 11am // 130pm pst TEC Rewards WG Weekly
-- 11am // 0mega WG weekly sync <a href="https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.1nbej8d3rkry">📝</a>
-- 3pm Hosting Queer AF 
+- 11am pst 2pm et // ben > @HiredThought <br>
+- 11am // 130pm pst TEC Rewards WG Weekly <br>
+- 11am // 0mega WG weekly sync <a href="https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.1nbej8d3rkry">📝</a> <br>
+- 3pm Hosting Queer AF SourceCred Server <br>
+![pride](https://media.giphy.com/media/lqp9adcqRkaqeIv7cv/giphy.gif)
 
 <h2 align="center">Thursday 13</h2>
 - 8-10am // **rewards research** <br>
