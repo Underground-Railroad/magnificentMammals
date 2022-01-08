@@ -1,4 +1,4 @@
-# Vincent | [Zadok7.eth](https://twitter.com/realZadok7)
+# [Zadok7.eth](https://twitter.com/realZadok7)
 ![v](https://pbs.twimg.com/profile_images/1447542351577194500/neEEqIM3_400x400.jpg)
 
 ## Media + Content 
