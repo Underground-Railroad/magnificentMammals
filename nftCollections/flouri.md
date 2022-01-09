@@ -1,5 +1,10 @@
 # Flouri
 
+<div align="center">
+  
+![](https://cdn.discordapp.com/attachments/894474009759084564/929704707302256700/unknown.png)
+
+</div>
 
 <div align="center">
   
