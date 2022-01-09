@@ -78,7 +78,7 @@ Selfie w/ Spencer Kympton [then/ President of The Mission Continues]
 ominous photo I captured on the island
   
 ![ink](https://cdn.discordapp.com/attachments/836325013057044501/929694033998151720/unknown.png)<br>
-naturally while visiting : Haight-Ashbury : commemorate the event
+naturally while visiting : Haight-Ashbury : commemorate the event Friday May 19th 2017
   
 the eagle and dove are symolic of peace after war
 
