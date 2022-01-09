@@ -1,4 +1,4 @@
-# Octopus
+# 🐙 Octopus
 > Math wizard
 
 ![mentors](https://cdn.discordapp.com/attachments/894474009759084564/929627342047957002/unknown.png)
