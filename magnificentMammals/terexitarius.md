@@ -1,7 +1,7 @@
 # Terexitarius | [Akorn](https://twitter.com/AkornMarket)
 ![akorn](https://cdn.discordapp.com/attachments/894474009759084564/929596499761958962/1500x500.png)
 
-## 💰 Git coin Grant
+## 💰 [Gitcoin Grant](https://gitcoin.co/grants/4006/incentivizing-actions-that-increasing-and-maintain)
 Incentivizing Actions That Increase and Maintain Native Ecosystems Through Tokenization
 
 ### Problems With Regenerative Marketplaces
