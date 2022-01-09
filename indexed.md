@@ -60,12 +60,16 @@
 
 <h2 align="center">📌 Grants</h2>
 
-+ [**Polygon**](https://forum.polygon.technology/c/grants/11) "Polygon foundation will seed the Polygon Ecosystem DAO with $1 MN"
++ [**Polygon**](https://forum.polygon.technology/c/grants/11) 
+> "Polygon foundation will seed the Polygon Ecosystem DAO with $1 MN"
   Read more [here](https://forum.polygon.technology/t/polygon-foundation-will-seed-the-polygon-ecosystem-dao-with-1-mn/328)
 + [**Gitcoin**](https://gitcoin.co/grants)
-+ [**Hyperscale**](https://www.hyperscalefund.com/) Fast funding for web3 projects
++ [**Hyperscale**](https://www.hyperscalefund.com/) 
+> Fast funding for web3 projects
   Receive up to $1M by competing in the DAO Race. Join in 5 min and be voted on by the DAO. Takes 5 mins to fill out - get up to $1M in funding.
-+ [**Stacks Foundation Grant Program**](https://stacks.org/grants) “The Grants Program funds builders and developers who are creating developer tools, community resources, applications, and research that serve our mission of a user owned internet, powered by the Stacks Blockchain.”
-+ [**web3.foundation**](https://web3.foundation/grants/) “Our Grants Program offers recurring grants of up to $100k for public applications, which are tracked transparently on Github and disbursed in cryptocurrencies. Exceptions to these requirements and higher funding are also possible.”
++ [**Stacks Foundation Grant Program**](https://stacks.org/grants) 
+> “The Grants Program funds builders and developers who are creating developer tools, community resources, applications, and research that serve our mission of a user owned internet, powered by the Stacks Blockchain.”
++ [**web3.foundation**](https://web3.foundation/grants/) 
+> “Our Grants Program offers recurring grants of up to $100k for public applications, which are tracked transparently on Github and disbursed in cryptocurrencies. Exceptions to these requirements and higher funding are also possible.”
 + [**Moonshot Collective**](https://moonshotcollective.space/) : Born from gitcoin I think…The Moonshot collective gathers once a month to receive new pitches. [dev stuff building out rad web3 ecosystem]
 
