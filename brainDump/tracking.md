@@ -17,4 +17,7 @@
 - [Readings](https://extitutions.org/bib)
 
 
-
+## BULLSHIT. SERIOUSLY.
+> the first decentralized due diligence system for ICOs using a Proof-of-Bullshit consensus algorithm.
+- https://bullshit-money.github.io/
+- [Brown Paper](https://bullshit-money.github.io/BrownPaper.pdf)
