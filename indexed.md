@@ -66,6 +66,10 @@
 
 <h2 align="left">📌 Grants</h2>
 
+[**Mirror**](https://mirror.xyz/dashboard/guide/crowdfunds) 
+- Anyone can create a Crowdfund by going to the Crowdfunds tab in the Mirror Dashboard and configuring some basic settings.
+-A crowdfund can be minimal with only a name and a funding goal, or include a more produced campaign with NFT reward tiers.
+
 [**Polygon**](https://forum.polygon.technology/c/grants/11) 
 - "Polygon foundation will seed the Polygon Ecosystem DAO with $1 MN"
   Read more [here](https://forum.polygon.technology/t/polygon-foundation-will-seed-the-polygon-ecosystem-dao-with-1-mn/328)
