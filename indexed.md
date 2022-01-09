@@ -30,8 +30,11 @@
 |  🚀  |          [Scarlet Parke](https://github.com/Underground-Railroad/magnificentMammals/blob/main/magnificentMammals/scarletParke.md)          | [A] |                                                          Tour, community build, NFT's                                                          |                      Podcast, Community / Web3 establishment                      | consented |              1.6.22              |                                                      manifest / community build                                                      |
 |  🌳  |          [Terexitarius](https://github.com/Underground-Railroad/magnificentMammals/blob/main/magnificentMammals/terexitarius.md)          | [A] |                              Regenerative Economies, Environmental activism, geospatial imagery and climate change                              |                                      Podcast?                                      |   seek   |              1.4.22              |                                rebranding >[Akorn](https://twitter.com/AkornMarket)  <br />create profile                                |
 |  🚀  |               [Zadok7.eth](https://github.com/Underground-Railroad/magnificentMammals/blob/main/magnificentMammals/Zadok7eth.md)               | [MM] [A] |                                           Lakota Vision, NFT's, ENS, self sustaining micro economies                                           |      Building community protocols, Podcast, Writing [Mirror?], Mentor/Mentee      |  confirm  |           daily 🤓 ish           |                                           [NFTHack](https://nfthack.ethglobal.co/) Jan 14-16th                                           |
+|🚼|[Yalor Mewn](https://twitter.com/YalorMewn)|[MM]| web3 Community and culture|brain sparring / co writing |consented|1.9.22| Brain Sparring |
 | 🕸️ |                  [Zevi](https://github.com/Underground-Railroad/magnificentMammals/blob/main/magnificentMammals/zevi.md)                  |     |                                 Internalized threads of capitalism, Isolation Culture, yt supremacy disruption                                 |                                  Podcast, Writing                                  |  confirm  |              1.5.22              |                                                     conflict/care in SC community                                                     |
-
+|🎨|Rose Drummond||||
+|💊| Sammy D||||
+||||||
 
 #### L E G E N D
 
@@ -58,7 +61,6 @@
 |  🏗  |   [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)   | everything you need to build on Ethereum! 🚀                                                                                                     |                                                                                                                                                                       |  creepin on github  |
 |  🐵  |               [coordinape](https://coordinape.com/)               | compensation tool                                                                                                                                | expertimented w/ incentives scholars /[TEC Labs: Coordinape Overview](https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit?usp=drivesdk) |         n/a         |
 |  🌞  |               [BrightID](https://www.brightid.org/)               | nonintrusive, decentralized, open-source technology seeking to reform identity verification                                                      | collecting emails / prep for SC / Bankless / ShineDAO                                                                                                                 |         n/a         |
-
 
 <br>
 <br>
@@ -104,4 +106,12 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
+<!---<<pre><code>  
 
+// humxn table
+||||||
+
+// Tools table 
+|||||||
+
+---!>
