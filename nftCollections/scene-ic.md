@@ -74,4 +74,12 @@ West Region Platoon Leaders - [The Mission Continues](https://www.missioncontinu
 ![spencer](https://polywork-production.imgix.net/nx5n9h8f9pkmsu5q2m5ejy7n5ws1?ixlib=rails-4.2.0&w=650&auto=format&dpr=1&q=75)<br>
 Selfie w/ Spencer Kympton [then/ President of The Mission Continues]
 
+![](https://lh3.googleusercontent.com/IP-vwYObYOjn6xz-a_M1NBhRZ72kt7hQy1BmOQZAyEHo_QWRgi4GkHcfgLDb3GFvT9D62TZsvRZRhiHS-1ykQY1WUao2VYapkg2TrHOTcvRTSUqlhRofrkqBeMos6LiiwGIpfEiFVWG6F8VPvFKBNjAUMjP78afhpjBJ6tOSz5VBno1-EcftZowY78rKQuUpLxmQVp4TAClP8xrRLjOcuz4xj772h4J8UP7XBdHCvbP1NxIxomPsbrdLKy0PdDx41xbf7MODAnnyokz5BcynqCgLmjnBDTluwAMk3u0_jya2GUEFKaeI8rSWWxS86wKlDEiIuEGg_JxMBTo2u6ME23zt0mKneXHAmqM5FA5Xk9QUjHzmUDZDsnSq4c_4bq4feB-AEthmDvBgpiF6TQXiyPCNmoF5S-3S-BQgDD1p_nhpn67nFU_bmjha-kvru2PfyBs_rz43ehMf4pfbUJTjviKCl8p9XIF6h_hQUYaqOD1S3zQXsHSK7UpPaUZk4CxMEBnyJsY87PUrFegEUP21aqPUMFdoD-Vh6eQ9kjvSjxOfX8Jq21F5A0q8naJqq3MBq0pIKzgnmERjqhRt7ImKXPsm0MGXmdBTeUeElvBFil4icNM3PUWA2wo2WpWKg644pdL5RF0pAx3KUDO4MXJR4eQRcnNs8o-DEAZPHt1ijnENhrXEw7XKmT6TD86hop-PP3HRAniUzcmIByU5B1i41Ip9=w640-h950-no?authuser=0)  <br>
+ominous photo I captured on the island
+  
+![ink](https://cdn.discordapp.com/attachments/836325013057044501/929694033998151720/unknown.png)<br>
+naturally while visiting : Haight-Ashbury : commemorate the event
+  
+the eagle and dove are symolic of peace after war
+
 </div>
