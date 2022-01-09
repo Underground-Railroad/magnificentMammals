@@ -1,3 +1,9 @@
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnderground-Railroad%2FmagnificentMammals%2Fblob%2Fmain%2FbrainDump%2Fprivilege.md&count_bg=%23F432D8&title_bg=%23555555&icon=macys.svg&icon_color=%23F432D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+ </div>
+ 
 # [Being-in-the-Room Privilege](https://www.thephilosopher1923.org/essay-taiwo): Elite Capture and Epistemic Deference 
 > Olúfémi O. Táíwò
 > >
