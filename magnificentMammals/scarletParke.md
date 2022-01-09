@@ -102,16 +102,20 @@
 ## SPIRITUAL
 > permissionary
 + childlike wonder 
-seen and heard
++ seen and heard
 
-## Vision Board 
-+ what does it feel like 
+## Vision  
++ what does it feel/look/sound like 
 
 ## Rituals 
 + affirmations
++ food choices / day
 
 
 ### Server:
+- what / why / when / how
+- rituals / comms / stirring a buzz
 
 ## Mentorship
-+ music
++ music + NFT's
++ network . . . 
