@@ -1,7 +1,7 @@
 # 🧠 Ponderings 
 > Neuroplasticity is something I have dabbled in since I was a child. I have made a hobby sport at the adaptability of my noodle. <br>
 > In all it's imperfections I am gifted with the ability to draw wisdom from my environment and ancestral knowledge. <br>
-> This is small a collection of thoughts I enjoy reflecting on.
+> This is small a collection of thoughts I enjoy reflecting on. [It will grow as I have time]
 
 <h1 align="center">I am intentionally influencing counter culture</h1>
 
