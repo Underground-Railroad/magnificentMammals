@@ -57,7 +57,7 @@
 <br>
 
 
-<h2 align="center">📌 Grants</h2>
+<h2 align="left">📌 Grants</h2>
 
 [**Polygon**](https://forum.polygon.technology/c/grants/11) 
 - "Polygon foundation will seed the Polygon Ecosystem DAO with $1 MN"
