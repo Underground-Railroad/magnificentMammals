@@ -11,11 +11,10 @@
 ### Y o u t u b e 
 📺 [Cryptography: Codes and Algorithms](https://www.youtube.com/watch?v=3EVi9ovvnDU) -Jan 5, 2022 <br>
 📺 [Cryptography: Numerical Encoding and Lookup Tables](https://www.youtube.com/watch?v=WGXA9e4ppxE) - Jan 4, 2022<br>
-📺 [Mathematics: Fun and Games](https://www.youtube.com/watch?v=W9YPnIXR75Y) - Sep 2, 2021<br>
 📺 [Discrete Math: Counting License Plates and Generalizing Questions](https://www.youtube.com/watch?v=urdGjJd63Ag) - Dec 28, 2021<br>
 📺 [Function, Limits, and Derivative for a Graph](https://www.youtube.com/watch?v=Z6-vdMMxFqs) - Dec 19, 2021 <br>
 📺 [Derivatives and Frequency Modulation Synthesis](https://www.youtube.com/watch?v=3aDb12Z64aQ) -Dec 13, 2021 <br>
-
+📺 [Mathematics: Fun and Games](https://www.youtube.com/watch?v=W9YPnIXR75Y) - Sep 2, 2021<br>
 
 
 ### bAnTeR
