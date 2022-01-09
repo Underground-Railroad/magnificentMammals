@@ -36,7 +36,15 @@ Subspecies: L. h. cleobaea
  
 Idea leuconoe, aka "the paper kite butterfly", "rice paper butterfly", "large tree nymph", or in Australia the "white nymph butterfly"
 
-Wingspan: 12 to 14 cm Scientific name: Idea leuconoe Kingdom: Animalia Family: Nymphalidae Order: Lepidoptera
+Wingspan: 12 to 14 cm 
+  
+Scientific name: Idea leuconoe 
+
+Kingdom: Animalia 
+
+Family: Nymphalidae 
+  
+Order: Lepidoptera
     
 👀 view on [OpenSea](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/12714204501747205633217818940794087116270597844190628696059582167230619582465)
   
@@ -66,7 +74,17 @@ Greta oto is a species of brush-footed butterfly and member of the subfamily Dan
 
 Commonly known as the glasswing butterfly for its transparent wings, which allow it to camouflage without extensive coloration.
 
-Scientific name: Greta oto Higher classification: Glasswing butterflies Rank: Species Family: Nymphalidae Phylum: Arthropoda Class: Insecta
+Scientific name: Greta oto Higher 
+  
+classification: Glasswing butterflies 
+
+Rank: Species 
+
+Family: Nymphalidae 
+
+Phylum: Arthropoda 
+
+Class: Insecta
   
 👀 view on [OpenSea](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/12714204501747205633217818940794087116270597844190628696059582169429642838017)
   
