@@ -9,7 +9,8 @@ verb
 
 Definition:
 
-(of a person, animal, or other living organism) grow or develop in a healthy or vigorous way, <br>
+(of a person, animal, or other living organism) <br>
+  grow or develop in a healthy or vigorous way, <br>
   especially as the result of a particularly favorable environment.
 
 </div>  
