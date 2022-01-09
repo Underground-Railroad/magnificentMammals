@@ -78,6 +78,9 @@
 [**Moonshot Collective**](https://moonshotcollective.space/)
 - Born from gitcoin I think…The Moonshot collective gathers once a month to receive new pitches. [dev stuff building out rad web3 ecosystem]
 
+
+---
+
 ![fanclub](https://cdn.discordapp.com/attachments/882121492756840458/929634419877240852/unknown.png)
 > 1.8.22
 
