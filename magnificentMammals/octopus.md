@@ -3,8 +3,8 @@
 
 ![mentors](https://cdn.discordapp.com/attachments/894474009759084564/929627342047957002/unknown.png)
 
-![ro4](https://cdn.discordapp.com/attachments/894474009759084564/929628632954069022/unknown.png)
-> rule of four <br>
+## rule of four
+![ro4](https://cdn.discordapp.com/attachments/894474009759084564/929628632954069022/unknown.png) 
 > visual / verbal
 
 
