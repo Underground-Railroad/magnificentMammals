@@ -1,3 +1,9 @@
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnderground-Railroad%2FmagnificentMammals%2Fblob%2Fmain%2FmagnificentMammals%2Fdarrick.md&count_bg=%23FF10B2&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+ </div>
+
 # 🦁 [Darrick Lionijah](https://www.linkedin.com/search/results/all/?keywords=darrick%20morrison&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=6206bd4c-3f1d-48b0-8889-115b4886ec8f&sid=(hY)) 
 > Social-Purpose and EcoRevolutionary-Driven / Inventor / Futurist / Community Builder / Platform and Systems Architect / Vlogger / Video Journalist
 
