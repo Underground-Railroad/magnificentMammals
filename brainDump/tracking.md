@@ -1,0 +1,8 @@
+<h1 align="center"> 🧐 Tracking . . . </h1> 
+
+## INTERSECT
+![INTERSECT](https://cdn.discordapp.com/attachments/918836299555811338/929853508423933982/unknown.png)
+> INTERSECT is an intentional assembly, an ancient tradition, a crossroads where humans stop and gather to reflect before continuing their journey in life. It is said that these humans come to INTERSECT moved by a desire to hack their worldviews and challenge their most cherished beliefs. It is also said that they leave from INTERSECT transformed from each other's perspectives and walking towards shared futures worth materializing. Rumour has it that in the present they conspire to make those futures past, as they harness the power of technology and religion. They cometh not alone. Join them in this exercise of speculative realism at CCC. <br>
+`led me to...`<br>
+- [Extitutions: The other side of institutions](Extitutions: The other side of institutions) <br>
+
