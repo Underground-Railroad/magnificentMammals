@@ -20,14 +20,15 @@ noun: avoidance; plural noun: avoidances
 
 "a pilotless passenger aircraft would rely on computers and automatic collision avoidance"
 
-L A W
+<br>
+
+> L A W
 
 `the action of repudiating, nullifying, or rendering void a decree or contract.`
 
 "community could not rely on top down methods to justify avoidance of the conflict"
 
 👀 view on [OpenSea](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/12714204501747205633217818940794087116270597844190628696059582172728177721345/)
-
 
 <br>
 
@@ -71,15 +72,6 @@ noun
 "The rudimentary behavior displayed by the "Temporary Benevolent Dictator" filled Aloysious with indignation"
 
 👀 view on [OpenSea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/12714204501747205633217818940794087116270597844190628696059582143041363771393)
-
-<h2 align="center"> xxx </h2>
-<div align="center">
-  
-![](xxx)
-
-</div>
-
-👀 view on [OpenSea](xxx)
 
 <br>
 
