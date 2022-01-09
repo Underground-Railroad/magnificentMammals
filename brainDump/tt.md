@@ -1,6 +1,12 @@
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnderground-Railroad%2FmagnificentMammals%2Fblob%2Fmain%2FbrainDump%2Ftt.md&count_bg=%23F432D8&title_bg=%23555555&icon=macys.svg&icon_color=%23F432D8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+ </div>
+ 
 # [How TikTok Reads Your Mind](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html)
 > New York Times
-> > It’s the most successful video app in the world. Our columnist has obtained an internal company document that offers a new level of detail about how the algorithm works.
+> It’s the most successful video app in the world. Our columnist has obtained an internal company document that offers a new level of detail about how the algorithm works.
 
 By Ben Smith
 Dec. 5, 2021
