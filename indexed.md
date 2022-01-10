@@ -99,14 +99,29 @@
 <br>
 <br>
 
-![fanclub](https://cdn.discordapp.com/attachments/894474009759084564/929828916628193340/unknown.png)
-> 1.9.22 @ 1208pm pst
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Thank you for visiting ❤️
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Thank you for visiting ❤️
+
+![orb](https://media.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif)
+ 
+ </div>
+ 
+<h2 align="center"> ❤️C R E D I T S ❤️ </h2>
+ 
+- [waving hand](https://github.com//MartinHeinz/MartinHeinz) Martin Heinz - *this being made me curious about the Markdown Syntax* my [README.md](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md)
+- [perfect loops - giphy](https://giphy.com/gifs/perfect-loops-2dnGHOAQt1tIziib5X)
+- [Hits Badge - customizable](hits.seeyoufarm.com) - *fun with Markdown*
+
+ 
+
+> slow down long enough to remember where you have learned from : this is where lineage is retained. This is how you show respect. This is how you practice the art of remembering, honoring, gratitude. Appropriation can happen when we are not mindful.  
 
 <!---<<pre><code>  
 
