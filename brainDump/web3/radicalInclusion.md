@@ -13,9 +13,11 @@ I intend to articulate the tangible produtcs / thoughts and considerations for r
 <div align="center">
 
 ![](https://polywork-production.imgix.net/1n19f03kbuikzx8vhe1elvsp0dqw?ixlib=rails-4.2.0&w=650&auto=format&dpr=1&q=75)
-> I will draw reference to dynamics on this chart all along the way
+
+  `I will draw reference to dynamics on this chart all along the way`
 
 ![](https://polywork-production.imgix.net/ln34rp8dtq3j39izuutx8td9ac0o?ixlib=rails-4.2.0&w=650&auto=format&dpr=1&q=75)
-> Spells I'm casting in the Future of "Work"
+
+  `Spells I'm casting in the Future of "Work"`
 
   </div>
