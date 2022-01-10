@@ -112,7 +112,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 <div align="center">
 
-`<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">` Thank you for visiting ❤️
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Thank you for visiting ❤️
 
 ![orb](https://media.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.gif)
 
