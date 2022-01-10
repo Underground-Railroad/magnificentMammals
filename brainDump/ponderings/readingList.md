@@ -12,7 +12,7 @@
 + The Complex PTSD Workbook: A Mind-Body Approach to Regaining Emotional Control and Becoming Whole - Schwartz PhD, Arielle
 + My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies - Menakem, Resmaa
 
-`on Addition`
+`on Addiction`
 
 `on Gender`
 
