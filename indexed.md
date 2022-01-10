@@ -94,6 +94,7 @@
 - Born from gitcoin I think…The Moonshot collective gathers once a month to receive new pitches. [dev stuff building out rad web3 ecosystem]
 
 <br>
+
 ---
 
 <br>
