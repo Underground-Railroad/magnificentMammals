@@ -21,6 +21,29 @@
 <br>
 
 
+## SourceCred
+
+## 🐝 [1hive Pollen bot](https://github.com/1Hive/pollen-bot)
+![](https://sourcecred.io/assets/images/pbot-4027af071833bb5fc6368e73ed4fb850.png)
+
+
+## [MeetingAttendanceDiscordBot](https://github.com/blueridger/MeetingAttendanceDiscordBot)
+> Designed by [@blueridger](https://github.com/blueridger)
+
+This is a simple discord bot that automates an operational process for the SourceCred community. It may be useful for other communities.
+
+![](https://sourcecred.io/assets/images/meeting-ad8aec0e452e2cc9ad02cbd80281190b.png)
+
+It posts a meeting summary message that auto-updates a list of participants as people join a designated voice channel in discord.
+
+## [Cred voting discord bot](https://github.com/blueridger/cred-voting-discord-bot)
+> Designed by [@blueridger](https://github.com/blueridger)
+
+![](https://sourcecred.io/assets/images/tallyoo-2ea6dc6b121afc5d1047aeb1cff8461a.png)
+ 
+<br>
+<br>
+
 ## 🎹 M U S I C  
 
 ### [Tempo](https://tempobot.net/) 
