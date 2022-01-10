@@ -83,34 +83,32 @@
 ### N E U R O D I V E R I S I T Y + T E C H
 
 + notifications // anxiety
-
   + methods to address certain habits / avoidance
 + behaviors that alarm nervous systems in a server
 + examples of narcissism observed in discord
 + nervous system regulation
 + autonomy
 + disassociating
-
   + getting grounded // many methods for
   + identifying old habits // patterns
 
-    **N O R M A L I Z E**
-  + screens / voice / participation = always optional [🪰's' on the wall are welcome]
-  + asking for consent
-  + listening
-  + gratitude
-  + radical inclusion [all hands in = throw out identity politics, they obliterate the possibility for collaboration]
-  + talking about things that make you uncomfortable
-  + spaces for identity representation {I've seen a server with a channel to share pictures of the 🐈‍⬛'s everyone has}
-  + permissionless entry [accessibility over insecurity]
-  + mentorship
-  + skill building
-  + group participation // teach many as opposed to one
-  + elliminate single points of failure
-  + know the tools in your ecosysytem, shift with the evolution of tech, do your research:
+**N O R M A L I Z E**
++ screens / voice / participation = always optional [🪰's' on the wall are welcome]
++ asking for consent
++ listening
++ gratitude
++ radical inclusion [all hands in = throw out identity politics, they obliterate the possibility for collaboration]
++ talking about things that make you uncomfortable
++ spaces for identity representation {I've seen a server with a channel to share pictures of the 🐈‍⬛'s everyone has}
++ permissionless entry [accessibility over insecurity]
++ mentorship
++ skill building
++ group participation // teach many as opposed to one
++ elliminate single points of failure
++ know the tools in your ecosysytem, shift with the evolution of tech, do your research:
   + acknowledge = [cite sources/ lineage], adopt/prepare to adapt, critique, experiment, survey, iterate, fine tune
-  + always seek feedback and critique in every endevaor // grit grows in these spaces
-  + situational awareness // share with the rest of the class
-  + more thoughts later..................
++ always seek feedback and critique in every endevaor // grit grows in these spaces
++ situational awareness // share with the rest of the class
++ more thoughts later..................
 
 > this page is an ongoing work in progress [[ just like my ideologies ]] 🤍
