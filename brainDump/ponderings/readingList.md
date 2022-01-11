@@ -16,7 +16,7 @@
 + The Ethical Slut, Third Edition: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love - *Janet W. Hardy*
 + Unfollow Me: Essays on Complicity - *Jill Louise Busby* 
 
-`on Trauma / <ental health`
+`on Trauma / Mental health`
 + The Complex PTSD Workbook: A Mind-Body Approach to Regaining Emotional Control and Becoming Whole - *Schwartz PhD, Arielle*
 + My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies - *Menakem, Resmaa*
 + We've Been Too Patient: Voices from Radical Mental Health--Stories and Research Challenging the Biomedical Model - *L. D. Green , Kelechi Ubozoh*
