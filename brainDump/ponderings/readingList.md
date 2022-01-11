@@ -28,7 +28,7 @@
 
 `on Autism / Neurodiversity`
 + Diverse Bodies, Diverse Practices: Toward an Inclusive Somatics -  Don Hanlon Johnson
-+ All the Weight of Our Dreams On Living Racialized Autism - [callin in for second edition](https://autismandrace.com/all-the-weight-of-our-dreams-anthology/)
++ All the Weight of Our Dreams On Living Racialized Autism - [call-in in for second edition](https://autismandrace.com/all-the-weight-of-our-dreams-anthology/)
 
 `on Activism`
 + Beyond Inclusion, Beyond Empowerment A Developmental Strategy to Liberate Everyone - Leticia Nieto
