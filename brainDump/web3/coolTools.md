@@ -1,3 +1,9 @@
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnderground-Railroad%2FmagnificentMammals%2Fblob%2Fmain%2FbrainDump%2Fweb3%2FcoolTools.md&count_bg=%23FF00F5&title_bg=%23FF00F5&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+ 
 <h2 align="center">🛠️ Cool Tools</h2>
 
 | vibe |                           cool thing                           | what for?                                                                                                                                                                                                                                         | notes                                                                                                                                                                 |   ❤️ who showed me?   |
@@ -16,7 +22,7 @@
 |  🐵  |               [coordinape](https://coordinape.com/)               | compensation tool                                                                                                                                                                                                                                 | expertimented w/ incentives scholars /[TEC Labs: Coordinape Overview](https://docs.google.com/document/d/1GNwLeHJ90si1IgsHklzcWG3Ma81mPjrdA7mbIZ5iBi0/edit?usp=drivesdk) |           n/a           |
 |  🌞  |               [BrightID](https://www.brightid.org/)               | nonintrusive, decentralized, open-source technology seeking to reform identity verification                                                                                                                                                       | collecting emails / prep for SC / Bankless / ShineDAO                                                                                                                 |           n/a           |
 |  🤍  | a relational conflict practice to support trauma-accessibility | “Everyone wants to be seen. Everyone wants their best intentions for connection and care to be known. But once nervous systems start to change states, it becomes a wild ride that we usually don’t have many words for.” --Sarah Peyton       | read 🤓                                                                                                                                                               | Rachel(ll) *thank you* |
-|  🧭  |         [you are on native-land](https://native-land.ca/)         | Native Land Digital strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. | ✊🏾                               |           n/a           |
+|  🧭  |         [you are on native-land](https://native-land.ca/)         | Native Land Digital strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. | ✊🏾                               |  Native Land Digital  |
 
 
 
