@@ -11,6 +11,11 @@
 >
 > If you learn from me : Cite me // lineage is important // gratitude is a practice
 
+### T O O L I N G
++ tech used = map out
++ what has permissions that need to br granted?
++ who has the "power" to decentralize this "power"?
+
 ### D I S C O R D
 
 + flashing shvt = 🚫 [ resist the temptation = Neurodivergence ]
