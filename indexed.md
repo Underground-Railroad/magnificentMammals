@@ -63,7 +63,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 - [waving hand](https://github.com//MartinHeinz/MartinHeinz) Martin Heinz - *this being made me curious about the Markdown Syntax * my [README.md](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md)
 - [perfect loops - giphy](https://giphy.com/gifs/perfect-loops-2dnGHOAQt1tIziib5X)
-- [Hits Badge - customizable](hits.seeyoufarm.com) - *fun with Markdown*
+- [Hits Badge - customizable](https://hits.seeyoufarm.com/) - *fun with Markdown*
 
 > slow down long enough to remember where you have learned from : this is where lineage is retained. This is how you show respect. This is how you practice the art of remembering, honoring, gratitude. Appropriation can happen when we are not mindful.
 
