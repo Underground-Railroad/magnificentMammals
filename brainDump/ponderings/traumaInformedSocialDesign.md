@@ -13,7 +13,7 @@
 
 ### T O O L I N G
 + tech used = map out
-+ what has permissions that need to br granted?
++ what technology has permissions that need to br granted to others? are there variations to the 
 + who has the "power" to decentralize this "power"?
 
 ### D I S C O R D
