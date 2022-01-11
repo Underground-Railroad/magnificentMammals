@@ -13,17 +13,22 @@
 `on the art of being mindful`
 + Wintering: The Power of Rest and Retreat in Difficult Times - Katherine May
 + I Hope We Choose Love: A Trans Girl’s Notes from the End of the World - Thom, Kai Cheng
++ The Ethical Slut, Third Edition: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love - Janet W. Hardy
++ Unfollow Me: Essays on Complicity - Jill Louise Busby 
 
-`on Trauma`
+`on Trauma / <ental health`
 + The Complex PTSD Workbook: A Mind-Body Approach to Regaining Emotional Control and Becoming Whole - Schwartz PhD, Arielle
 + My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies - Menakem, Resmaa
++ We've Been Too Patient: Voices from Radical Mental Health--Stories and Research Challenging the Biomedical Model - L. D. Green , Kelechi Ubozoh
 
 `on Addiction`
++ Unspoken Legacy: Addressing the Impact of Trauma and Addiction Within the Family - Claudia Black
 
 `on Gender`
 
 `on Autism / Neurodiversity`
 + Diverse Bodies, Diverse Practices: Toward an Inclusive Somatics -  Don Hanlon Johnson
++ All the Weight of Our Dreams On Living Racialized Autism - [callin in for second edition](https://autismandrace.com/all-the-weight-of-our-dreams-anthology/)
 
 `on Activism`
 + Beyond Inclusion, Beyond Empowerment A Developmental Strategy to Liberate Everyone - Leticia Nieto
@@ -39,20 +44,23 @@
 + Care Work: Dreaming Disability Justice - Leah Lakshmi Piepzna-Samarasinha
 
 `on Identity [politics]`
++ How to Be an Antiracist - Ibram X. Kendi
 + White Fragility: Why It's So Hard for White People to Talk About Racism - DiAngelo, Robin
-+
++ Nice Racism: How Progressive White People Perpetuate Racial Harm - DiAngelo, Robin
+ 
+
 `Queer literature`
-+ Queering Anarchism: Addressing and Undressing Power and Desire
++ Queering Anarchism: Addressing and Undressing Power and Desire - Deric Shannon, J. Rogue, et al.
 + The Faggots and Their Friends Between Revolutions - Mitchell, Larry
 
 `on Conflict / Accountability`
 + Fumbling Towards Repair: A Workbook for Community Accountability Facilitators - Kaba, Mariame
 + Turn This World Inside Out: The Emergence of Nurturance Culture - Samaran, Nora 
 + The Revolution Starts at Home: Confronting Intimate Violence Within Activist Communities - Chen, Ching-In
-+ 
 + Healing Resistance: A Radically Different Response to Harm - Haga, Kazu
 
 `on poetry`
++ We Want Our Bodies Back: Poems - Jessica Care Moore
 + I Am Phoenix: Poems for Two Voices - Fleischman, Paul
 + anything from Nayyrirah Waheed 
 + anything from Mary Oliver
@@ -62,7 +70,9 @@
 
 `fiction`
 + Octavia's Brood: Science Fiction Stories from Social Justice Movements - Imarisha, Walidah
-+ Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair - Schulman, Sarah [negligent writing // conflict was never defined]
++ Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair - Schulman, Sarah 
+  + [negligent writing // conflict was never defined, still insightful]
+
 <br>
 
 ## A R T I C L E S 
