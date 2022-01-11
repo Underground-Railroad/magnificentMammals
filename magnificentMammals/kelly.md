@@ -10,3 +10,8 @@
 ![kp](https://pbs.twimg.com/media/FDZsQFhWUAI12Sl?format=jpg&name=large)
 
 <<[ [⛓️🌳](https://linktr.ee/drkellypage) ]>>
+
+### // TO DO
++ Schedule more intentional drop ins
++ practice `writing in activation` as per our conversation, inspired by BYT twitter-space 💩-show.
++ Diversity and Inclusion co-write
