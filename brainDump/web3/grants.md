@@ -6,35 +6,66 @@
  
 <h2 align="left">📌 Grants</h2>
 
-[**Mirror**](https://mirror.xyz/dashboard/guide/crowdfunds)
+### [**Mirror**](https://mirror.xyz/dashboard/guide/crowdfunds)
 
 - Anyone can create a Crowdfund by going to the Crowdfunds tab in the Mirror Dashboard and configuring some basic settings.
-  - A crowdfund can be minimal with only a name and a funding goal, or include a more produced campaign with NFT reward tiers.
 
-[**Polygon**](https://forum.polygon.technology/c/grants/11)
+- A crowdfund can be minimal with only a name and a funding goal, or include a more produced campaign with NFT reward tiers.
 
-- "Polygon foundation will seed the Polygon Ecosystem DAO with $1 MN"
+- On Mirror, anyone can raise funds for an idea or project using the Crowdfund block. Under the hood, a Crowdfund is a smart contract on Ethereum. Backers deposit ETH to fund your idea in exchange for a token. The token represents a proof of patronage and a stake in the potential success of your project. Crowdfunds can be embedded into any entry on Mirror, alongside text and other media blocks that tell your project's story.
+ 
+### [**Polygon**](https://forum.polygon.technology/c/grants/11)
+
+- "Polygon foundation will seed the `Polygon Ecosystem` DAO with $1 MN"
   Read more [here](https://forum.polygon.technology/t/polygon-foundation-will-seed-the-polygon-ecosystem-dao-with-1-mn/328)
 
-[**Gitcoin**](https://gitcoin.co/grants)
+### [**Gitcoin**](https://gitcoin.co/grants)
 - "Millions in open source project funding - We've helped thousands of projects and teams grow their open source ecosystems." 
+- [create a grant](https://gitcoin.co/grants/new)
 
-[**Hyperscale**](https://www.hyperscalefund.com/)
+### [**Hyperscale**](https://www.hyperscalefund.com/) [[They're building a DAO directory 👀]]
 
 - Fast funding for web3 projects
   Receive up to $1M by competing in the DAO Race. Join in 5 min and be voted on by the DAO. Takes 5 mins to fill out - get up to $1M in funding.
 
-[**Stacks Foundation Grant Program**](https://stacks.org/grants)
+### [**Stacks Foundation Grant Program**](https://stacks.org/grants)
 
-- “The Grants Program funds builders and developers who are creating developer tools, community resources, applications, and research that serve our mission of a user owned internet, powered by the Stacks Blockchain.”
+- “The Grants Program funds builders and developers who are creating developer tools, community resources, applications, and research that serve our mission of a user owned internet, powered by the `Stacks Blockchain`.”
 
-[**web3.foundation**](https://web3.foundation/grants/)
+### [**web3.foundation**](https://web3.foundation/grants/)
 
 - “Our Grants Program offers recurring grants of up to $100k for public applications, which are tracked transparently on Github and disbursed in cryptocurrencies. Exceptions to these requirements and higher funding are also possible.”
+- [Grants-Program](https://github.com/w3f/Grants-Program) - Github 💻
 
-[**Moonshot Collective**](https://moonshotcollective.space/)
+### [**Moonshot Collective**](https://moonshotcollective.space/) [[Fk'n Ninjas!]]
 
 - Born from gitcoin I think…The Moonshot collective gathers once a month to receive new pitches. [dev stuff building out rad web3 ecosystem]
+
+### [**Gnosis**](https://github.com/gnosis/GECO)
+- The Gnosis Ecosystem Fund empowers teams to drive the global adoption of decentralized applications by leveraging the full potential of `Gnosis' products and protocols`. Our mission is to create a collaborative environment where ambitious projects can expand and shape the `Ethereum` ecosystem.
+> We want to support a wide range of projects in both topic and scale. For this reason, we are offering grants of between $5.000 and $100.000. The allocated funding will reflect the scope and ambition of your proposal. To get a sense of how much funding to request for your proposal, check out our [bounties](https://gitcoin.co/profile/GnosisEcosystemFund) and current projects for an estimation.
+>
+> Mentoring
+> 
+> The Gnosis Ecosystem Fund provides more than just financial support. You will also be assigned and receive support from a Gnosis developer who will act as your project mentor. Furthermore, we can connect you to experts in the field and to experienced legal, admin, and financial advisors as needed. As our ecosystem continues to develop, we hope to foster a supportive community where past projects are willing to support and mentor new projects.
+
+### [**polkadot**](https://wiki.polkadot.network/docs/grants)
+- Web3 Foundation offers grants for open source software development and research around `Substrate`, `Polkadot`, and `Kusama`.
+
+> Applications and deliveries are tracked transparently on GitHub and disbursed in BTC, USDT or DAI. However, you can also apply in private, get paid out in fiat and seek funding above the regular limits ($30,000 for first-time applications and $100,000 for follow-up ones), if needed.
+> 
+> More information regarding requirements, the application process, deliveries, etc., can be found in the [Grants Program README](https://github.com/w3f/Open-Grants-Program). For guidance, there is also a list of [previously accepted applications](https://github.com/w3f/Grants-Program/blob/master/docs/accepted_grant_applications.md) and a list of [frequently asked questions](https://github.com/w3f/Grants-Program/blob/master/docs/faq.md).<br>
+
+__`Below is a list of other grant programs in the Polkadot/Substrate ecosystem:`__
+- [Darwinia Grants Program](https://docs.darwinia.network/docs/en/dev-bounty#grant-program)
+- [Moonbeam Grants Program](https://moonbeam.network/community/grants/)
+- [Edgeware Grants and Bounties](https://github.com/edgeware-builders/construction-projects)
+- [Crust Grants Program](https://github.com/crustio/Crust-Grants-Program)
+- [HydraDX Grants and Bounties](https://docs.hydradx.io/new_deal)
+- [Plasm Network Builders Program](https://github.com/PlasmNetwork/Builders-Program)
+- [Astar / Shiden Network Builders Program](https://github.com/PlasmNetwork/Builders-Program)
+- [Picasso / Composable Grants Program](https://grants.composable.finance/)
+- [SubQuery Grants Programme](https://subquery.network/grants)
 
 <br>
 
