@@ -1,3 +1,9 @@
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnderground-Railroad%2FmagnificentMammals%2Fblob%2Fmain%2FbrainDump%2Fweb3%2Fgrants.md&count_bg=%23FF00F5&title_bg=%23FF00F5&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+ </div>
+ 
 <h2 align="left">📌 Grants</h2>
 
 [**Mirror**](https://mirror.xyz/dashboard/guide/crowdfunds)
