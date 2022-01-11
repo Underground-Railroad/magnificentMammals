@@ -42,6 +42,8 @@
 
 `on Disability`
 + Care Work: Dreaming Disability Justice - Leah Lakshmi Piepzna-*Samarasinha*
++ Disability Visibility: First-Person Stories from the Twenty-first Century *various contributors*
+
 
 `on Identity [politics]`
 + How to Be an Antiracist - Ibram X. Kendi
