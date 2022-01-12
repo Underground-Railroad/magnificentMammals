@@ -13,8 +13,9 @@
 
 ### T O O L I N G
 + tech used = map out
-+ what technology has permissions that need to br granted to others? are there variations to the 
++ what technology has permissions that need to be granted to others? are there variations to the 
 + who has the "power" to decentralize this "power"?
++ << `Disposition of Power` tool >> - design the concept model
 
 ### D I S C O R D
 
@@ -35,8 +36,9 @@
   + re: quality // define [should be based on accessibility / ADA standards]
   + time to get creative and push back on Acedemia / Ableism
 + working groups // size [individual to collective 🥄 count]
++ implicit bias // conditioned competitiveness re: power // leadership // fear of heiarchies overcorrection : lack of structure, loss of continuity, hoarding
 + planning // organization // tooling based on aesthetics and ergonomics per person
-+ implicit bias // conditioned competitiveness [ re: power // leadership // fear of heiarchies overcorrection : lack of structure, loss of continuity, hoarding
++ << finding the collective miiddle ground >> - ex: allowing multiple calendar options // personal preferences / based on 🧠's
 
 ### M E N T A L + H E A L T H
 
