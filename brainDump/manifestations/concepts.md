@@ -5,7 +5,7 @@
  </div>
  
  # 💡I D E A S 
- > These ideas come from processing frustrations and seeing holes that could be filled in my ecosystem. I share my ideas in the spirit of collaboration. I am not hoarding them out of scarcity. I am trusting that people who stumble upon these ideas, should they become inspired to run with them...please remember to honor where those inspirations derived, equally so cite sources I have if I had help coming to my current vantage. When we fail to slow down and give thanks to people who have impacted our lives this is how colonizing and erasure occures. This is why people hold onto ideas in the first place, it's fear based. I want to be a part of the change I want to see in the world. This whole repository is a reflection of this energy. 
+ > These ideas come from processing frustrations and seeing holes that could be filled in my ecosystem. I share my ideas in the spirit of collaboration. I am not hoarding them out of scarcity. I am trusting that people who stumble upon these ideas, should they become inspired to run with them...please remember to honor where those inspirations derived, equally so cite sources I have if I had help coming to my current vantage as I will cite my sources too. When we fail to slow down and give thanks to people who have impacted our lives this is how colonizing and erasure occures. This is why people hold onto ideas in the first place, it's fear based. I want to be a part of the change I want to see in the world. This whole repository is a reflection of my desire to influence change.
  
  
 > conflict care
