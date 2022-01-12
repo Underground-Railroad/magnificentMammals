@@ -36,7 +36,7 @@
   + time to get creative and push back on Acedemia / Ableism
 + working groups // size [individual to collective 🥄 count]
 + planning // organization // tooling based on aesthetics and ergonomics per person
-+ implicit bias // conditioned competitiveness [ re: power // leadership // fear of heiarchies overcorrection : lack of structure, loss of continuity, hoarding]
++ implicit bias // conditioned competitiveness [ re: power // leadership // fear of heiarchies overcorrection : lack of structure, loss of continuity, hoarding
 
 ### M E N T A L + H E A L T H
 
