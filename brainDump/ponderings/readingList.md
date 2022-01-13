@@ -104,6 +104,7 @@
 `on conflict / accountability`
 
 ### what I'm currently Reading . . .
++ Hyperobjects: Philosophy and Ecology after the End of the World (Posthumanities) - *Timothy Morton*
 + Beyond Inclusion, Beyond Empowerment A Developmental Strategy to Liberate Everyone - *Leticia Nieto* [like a bible / but not cuz ya know religion]
 + A relational conflict practice to support trauma accessibility 
 
