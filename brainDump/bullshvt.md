@@ -8,6 +8,7 @@
 
 ## Miami Mayor Wants Elon Musk To Build A Tunnel Under The City
 > 71,617 views Apr 6, 2021 <br>
+
 ![](https://cdn.discordapp.com/attachments/913918246246297613/931487690694754305/unknown.png)
 > "We here at the Richest like to give it to ya straight.  So we wanna tell you up front, today’s video is gonna be boring.  No, no, no!  Not THAT kind of boring!  Come on now.  We mean boring as in Elon Musk’s The Boring Company!  They specialize in creating some of the finest tunnels the world has ever seen!  In case you didn’t know, these are the guys behind the tunnels that currently run right underneath the Las Vegas Convention Center.  And they’ve only been recently completed, and are already beloved by the people of Las Vegas.  But get this, one mayor in particular has his eye set firmly on Musk’s company, as well as… underground… and he has big plans for the city of Miami.  Ideally, he wants Mr. Musk to bore a hole right underneath Miami to alleviate some of the horrendous traffic congestion-- and he wants the federal government to pay for it.  Look, get it.  Right now traffic there is bad.  REAL bad.  People have been complaining for years about the ridiculous amount of traffic.  We’d even go so far as to say that it has deterred people from moving to Miami over the years!  But with one of Mr. Musk’s shiny new tunnels, travel time for commuters would be reduced from a headache inducing 40 minutes… to a speedy five minutes.  Now that ain’t bad, folks.  So, get ready for us to dig deep, and get to the bottom of this one.  We’ve got the scoop on this story right here…. So stick around."
 + various estimations : $52.5Million [6 months] - 1 Billion [4 years]
@@ -19,12 +20,14 @@
 
 ## Fire rages on ocean surface in Gulf of Mexico
 > 946,494 views Jul 2, 2021 <br>
+
 ![](https://cdn.discordapp.com/attachments/913918246246297613/931486380104777728/unknown.png)
 > "Video of fire breaking out on surface of the Gulf of Mexico has gone viral. The fire reportedly broke out after a gas leak from an underwater pipeline. State oil company Pemex informed that the blaze has been extinguished. Bright orange flames jumping out of the water resembled molten lava. The circular shaped blaze raged a short distance from a Pemex oil platform. According to Pemex, the fire took more than five hours to fully doused. Pemex said no injuries were reported & production from the project was not affected. The gas leak, which ignited around 5:15 am local time, extinguished by 10:30 am. The company added that it would investigate the cause of the fire."
 📺 [watch this bullshvt](https://www.youtube.com/watch?v=BhLFIiWxsc8)
 
 ## Eye of Fire' - Gulf of Mexico ocean on fire after underwater gas leak 
 > 276,001 views Jul 3, 2021 <br>
+
 ![](https://cdn.discordapp.com/attachments/913918246246297613/931488371832934430/unknown.png)
 
 Horror footage shows flames rising from the water in the Gulf of Mexico after a gas pipeline ruptured on Friday - creating what was described as an "eye of fire".
