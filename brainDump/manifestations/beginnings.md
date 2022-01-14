@@ -1,6 +1,7 @@
 # I wish every night could end with a fire 🔥 
-> Darrick and I gathered by firelight to discuss our place in the blockchain. 
-> I pulled a card for each of us at nights end. Feels important to capture. 
+> Darrick and I gathered by firelight to discuss our place in the blockchain. <br>
+> I pulled a card for each of us at nights end. <br>
+> Feels important to capture. 
 
 ## Ace of Swords // Darrick 🦁 
 
