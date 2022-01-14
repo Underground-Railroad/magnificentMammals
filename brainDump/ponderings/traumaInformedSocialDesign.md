@@ -99,7 +99,12 @@
   + getting grounded // many methods for
   + identifying old habits // patterns
 
-**N O R M A L I Z E**
+### C O L L E C T I V E + A W A R E N E S S 
++ what makes up a persons level of social awareness?
++ [the unpacking](https://github.com/Underground-Railroad/magnificentMammals/blob/main/brainDump/ponderings/socialAwareness.md)
+
+
+### **N O R M A L I Z E**
 + screens / voice / participation = always optional [🪰's' on the wall are welcome]
 + asking for consent
 + listening
