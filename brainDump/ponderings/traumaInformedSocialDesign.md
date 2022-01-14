@@ -101,7 +101,7 @@
 
 ### C O L L E C T I V E + A W A R E N E S S 
 + what makes up a persons level of social awareness?
-+ [the unpacking](https://github.com/Underground-Railroad/magnificentMammals/blob/main/brainDump/ponderings/socialAwareness.md)
+  + [the unpacking](https://github.com/Underground-Railroad/magnificentMammals/blob/main/brainDump/ponderings/socialAwareness.md) ( a work in progress . . . )
 
 
 ### **N O R M A L I Z E**
