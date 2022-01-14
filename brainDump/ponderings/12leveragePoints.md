@@ -1,3 +1,9 @@
+<div align="right">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnderground-Railroad%2FmagnificentMammals%2Fblob%2Fmain%2FbrainDump%2Fponderings%2F12leveragePoints.md&count_bg=%23FF00ED&title_bg=%23FF00ED&icon=reverbnation.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 # [Twelve leverage points](https://en.wikipedia.org/wiki/Twelve_leverage_points)
 > The twelve leverage points to intervene in a system were proposed by [Donella Meadows](https://en.wikipedia.org/wiki/Donella_Meadows), a scientist and system analyst who studied environmental limits to economic growth.
 
