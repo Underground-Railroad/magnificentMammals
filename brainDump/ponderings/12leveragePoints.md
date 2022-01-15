@@ -63,7 +63,6 @@ Transcending paradigms may go beyond challenging fundamental assumptions, into t
 + Many today see Nature as a stock of resources to be converted to human purpose. Many Native Americans see Nature as a living god, to be loved, worshipped, and lived with. These views are incompatible, but perhaps another viewpoint could incorporate them both, along with others.
 
 #### See also
-+ Wikipedia
 + [Complexity, Problem Solving, and Sustainable Societies — Joseph Tainter](https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies)
 + [Focused improvement](https://en.wikipedia.org/wiki/Focused_improvement)
 + [Leverage Point Modeling](https://en.wikipedia.org/wiki/Leverage_Point_Modeling)
@@ -72,6 +71,7 @@ Transcending paradigms may go beyond challenging fundamental assumptions, into t
 + [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_Constraints)
 
 #### References
++ Wikipedia
 + ["Leverage Points: Places to Intervene in a System," Reproduced original work, archived at the Donella Meadows Institute](http://www.donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 + [Places to Intervene in a System](http://www.developerdotstar.com/mag/articles/places_intervene_system.html), by Donella Meadows, published in a software development context
 + Meadows, Donella H. 2008. Thinking in Systems : A Primer, Chelsea Green Publishing, Vermont, pages 145–165.
