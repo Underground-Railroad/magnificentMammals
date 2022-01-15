@@ -50,3 +50,42 @@ These people use their empathy to tune in to what pleases you, and in doing so, 
 - They even seem to have a lack of empathy for the people they are trying to help and rather feel above them.
 
 - If we want to do a good deed, we do it quietly. We do it because we know it’s the right thing to do. But a communal narcissist does it for show. A narcissist only cares for their image in the eyes of the world, rather than how they make everyone else feel.
+
+## How Narcissism is baked into our culture?
+
+`we like to keep it in the family`
+
+- hoarding = savings [redistribution of wealth should be taught here]
+- competition / how this manifests in humxn interactions and exchanges
+  - sibling rivalry [normalization of it in our culture / 🖍️supremacy]
+- more to follow...
+
+`relationships`
+
+- isms / ex: heteronormitivity / social hoarding of gender, class, status etc
+- obedience / coveted attribute for 🖍️supremacy // re-enforced through gender roles, power dynamics and identity politics
+- projections of insecurity around status // looks like = 
+  - "you cannot talk to other people about xyz"... [ego / threat to social status]
+  - "have you tried a therapist" [social conformity around individualism]
+  - "don't be your trauma" [projected ableism]
+- more to follow...
+
+`"education system" // INDOCTRINATION // Cultural Erasure`
+
+![](https://cdn.discordapp.com/attachments/913698203130552350/932055999353864322/unknown.png)
+
+> NOTICE WHAT IS MISSING elite PROFESSIONS (Military, Medical, Science, Public Services etc...)
+
+- competition
+- intentionally low stimuli
+- indoctrination into 🖍️supremacy history
+- manufactoring obedient humxns for =
+  - labor industry :
+  - or the furthering of 🖍️supremacy [insert college] // elite professions [CHANGE OCCURS HERE] // for the worse for a reason only the indoctrinated can make an impact the ones who are oppressed by systems ideology and the behavior of the technology they are interacting with.
+- more to follow...
+
+off to make up a game outside with my daughter.
+
+we will not forget how to create with our magical minds.
+
+ 
