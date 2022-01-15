@@ -63,6 +63,7 @@ Transcending paradigms may go beyond challenging fundamental assumptions, into t
 + Many today see Nature as a stock of resources to be converted to human purpose. Many Native Americans see Nature as a living god, to be loved, worshipped, and lived with. These views are incompatible, but perhaps another viewpoint could incorporate them both, along with others.
 
 #### See also
++ Wikipedia
 + [Complexity, Problem Solving, and Sustainable Societies — Joseph Tainter](https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies)
 + [Focused improvement](https://en.wikipedia.org/wiki/Focused_improvement)
 + [Leverage Point Modeling](https://en.wikipedia.org/wiki/Leverage_Point_Modeling)
