@@ -11,8 +11,22 @@ welcome screen
 ![Epochs](https://cdn.discordapp.com/attachments/932083316880965703/932406750005583892/unknown.png)
 > Epochs
 
-![Admin](https://cdn.discordapp.com/attachments/932083316880965703/932404172471537724/unknown.png)
-> Admin
+`one`
+
+`two`
+
+`three`
+
+![Learning Group](https://cdn.discordapp.com/attachments/932083316880965703/932404172471537724/unknown.png)
+> Learning Group
+
+`one`
+
+`two`
+
+`three`
+
+`four`
 
 ![Exported CSV](https://cdn.discordapp.com/attachments/932083316880965703/932403187594448906/unknown.png)
 > Exported CSV
@@ -93,6 +107,8 @@ welcome screen
 
 ## My 🔥🔥🔥 hot take . . .
 > will circle back, that was plenty of markdown for one sitting
+
+___
 
 // TO DO 
 + come back and story tell
