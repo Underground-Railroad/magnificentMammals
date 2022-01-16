@@ -6,7 +6,7 @@
 ![Selecting teamates in your group circle](https://cdn.discordapp.com/attachments/932083316880965703/932404944051503154/unknown.png)
 > Selecting teamates in your group circle
 
-welcome screen 
+## welcome screen 
 
 ![Epochs](https://cdn.discordapp.com/attachments/932083316880965703/932406750005583892/unknown.png)
 > Epochs
@@ -17,6 +17,8 @@ welcome screen
 
 `three`
 
+
+## Admin View . . .  
 ![Learning Group](https://cdn.discordapp.com/attachments/932083316880965703/932404172471537724/unknown.png)
 > Learning Group
 
