@@ -130,4 +130,4 @@
 + [Beyond Inclusion, Beyond Empowerment A Developmental Strategy to Liberate Everyone](https://beyondinclusionbeyondempowerment.com/) - *Leticia Nieto* [like a bible / but not cuz ya know religion]
 + A relational conflict practice to support trauma accessibility 
 + [Token Economy](https://shermin.net/token-economy-book/) How the web3 invents the internet - [Shermin Voshmgir 🌈 🪐 💫](https://twitter.com/sherminvo)
-
++ [Indigenous self-government](https://www.ictinc.ca/hubfs/ebooks/eBooks-2021/Indigenous-Self-Government.pdf)
