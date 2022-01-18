@@ -103,8 +103,13 @@
 
 `on conflict / accountability`
 
+## E V E R Y T H I N G  e l s e 
++ [The Manifesto of Ontological Design](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107) - Daniel Fraga
++ [HYPERDIMENSIONAL DESIGN](https://bullshit.ist/the-city-in-the-sky-cce8e5871735?source=user_profile---------1-------------------------------)THE INFUSION OF BELIEF AND THE CITY IN THE SKY - Daniel Fraga
++ [VIRTUAL REALITY AND POST ARCHITECTURE](https://bullshit.ist/virtual-reality-and-post-architecture-46cd9be08bf7?source=user_profile---------2-------------------------------) Daniel Fraga
 ### what I'm currently Reading . . .
 + Hyperobjects: Philosophy and Ecology after the End of the World (Posthumanities) - *Timothy Morton*
-+ Beyond Inclusion, Beyond Empowerment A Developmental Strategy to Liberate Everyone - *Leticia Nieto* [like a bible / but not cuz ya know religion]
++ [Beyond Inclusion, Beyond Empowerment A Developmental Strategy to Liberate Everyone](https://beyondinclusionbeyondempowerment.com/) - *Leticia Nieto* [like a bible / but not cuz ya know religion]
 + A relational conflict practice to support trauma accessibility 
++ [Token Economy](https://shermin.net/token-economy-book/) How the web3 invents the internet - [Shermin Voshmgir 🌈 🪐 💫](https://twitter.com/sherminvo)
 
