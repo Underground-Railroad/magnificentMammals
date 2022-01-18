@@ -5,7 +5,7 @@
  </div>
 
 # 📚 Spells that inform my understandings of the world / humxn behavior 🤓
-> summoning my memory [round one] > will sort this pile later . . . 
+> summoning my memory > will sort this pile over time [#ADHD](https://github.com/Actually-Autistic-Developers/neurodiversity-resources/blob/main/README.md) . . . 
 
 <br>
 
