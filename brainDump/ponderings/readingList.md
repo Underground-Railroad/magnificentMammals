@@ -26,6 +26,8 @@
 + Unspoken Legacy: Addressing the Impact of Trauma and Addiction Within the Family - Claudia Black
 
 `on Gender`
++ Mean Little Deaf Queer - Terry Galloway
++ Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities - Dr. Nick Walker
 
 `on Autism / Neurodiversity`
 + Diverse Bodies, Diverse Practices: Toward an Inclusive Somatics -  Don Hanlon Johnson
@@ -43,12 +45,13 @@
 
 `on Disability`
 + We've been too patient 
-+ A wueer disability anthology - *Raymond Luczac*
-+ Care Work: Dreaming Disability Justice - Leah Lakshmi Piepzna-*Samarasinha*
++ A Queer Disability Anthology - *Raymond Luczac*
++ Care Work: Dreaming Disability Justice - Leah Lakshmi Piepzna- *Samarasinha*
 + Disability Visibility: First-Person Stories from the Twenty-first Century *various contributors*
 
 
 `on Identity [politics]`
++ Stamped from the Beginning: The Definitive History of Racist Ideas in America - *Ibram X. Kendi*
 + How to Be an Antiracist - *Ibram X. Kendi*
 + White Fragility: Why It's So Hard for White People to Talk About Racism - *DiAngelo, Robin*
 + Nice Racism: How Progressive White People Perpetuate Racial Harm - *DiAngelo, Robin*
@@ -66,10 +69,10 @@
 + Healing Resistance: A Radically Different Response to Harm - *Haga, Kazu*
 
 `on poetry`
++ EVERYTHING Nayyirah Waheed writes! // Nejma especially
 + EVERYTHING Rupi Kaur writes! // Homebody especially
 + We Want Our Bodies Back: Poems - *Jessica Care Moore*
 + I Am Phoenix: Poems for Two Voices - *Fleischman, Paul*
-+ anything from *Nayyrirah Waheed* 
 + anything from *Mary Oliver*
 + The art of naming my pain from *Kellie Richardson*
 
@@ -90,13 +93,16 @@
 ## Z I N E S
 
 `on Autism / Neurodiversity`
-+ [The Autism Handbook](https://microcosmpublishing.com/catalog/zines/9928)
-+ [Autism Partner Handbook](https://microcosmpublishing.com/catalog/zines/10889)
-+ [Your Neurodiverse Friend #4](https://microcosmpublishing.com/catalog/zines/10525)
-+ [Your Neurodiverse Friend #2: Being Taken Advantage Of](https://microcosmpublishing.com/catalog/zines/10303)
-+ [Your Neurodiverse Friend #3: Masking](https://microcosmpublishing.com/catalog/zines/2969)
++ [The Autism Handbook](https://microcosmpublishing.com/catalog/zines/9928) - microcosmpublishing
++ [Autism Partner Handbook](https://microcosmpublishing.com/catalog/zines/10889) - microcosmpublishing
++ [Your Neurodiverse Friend #4](https://microcosmpublishing.com/catalog/zines/10525) - microcosmpublishing
++ [Your Neurodiverse Friend #2: Being Taken Advantage Of](https://microcosmpublishing.com/catalog/zines/10303) - microcosmpublishing
++ [Your Neurodiverse Friend #3: Masking](https://microcosmpublishing.com/catalog/zines/2969) - microcosmpublishing
 
 `on Trauma`
++ [Detox Your Masculinity: How Cultural Bullshit Fucks Up Men's Body Image; What to Look For and What to Do About It](https://microcosmpublishing.com/catalog/zines/10056) - microcosmpublishing
++ [How to Be Accountable Workbook: Take Responsibility to Change Your Behavior, Boundaries, & Relationships](https://microcosmpublishing.com/catalog/books/14443) (take what serves you, leave the rest)
+
 
 `on Authentic Relating`
 + [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing/) - *Leah jo and Fizz Perkal* ✅ Free download
@@ -115,15 +121,15 @@
 + [VIRTUAL REALITY AND POST ARCHITECTURE](https://bullshit.ist/virtual-reality-and-post-architecture-46cd9be08bf7?source=user_profile---------2-------------------------------) Daniel Fraga
 
 ## V I D E O S 
-📺 [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
-📺 [Accountability is a love language](https://www.youtube.com/watch?v=zVJgy-uGyw4)
-📺 [What are Obstacles to Accountability?](https://www.youtube.com/watch?v=tRhoaRlyeq8)
-📺 [How to Support Harm Doers in Being Accountable](https://www.youtube.com/watch?v=AhANo6wzBAA)
-📺 [How Shame Can Block Accountability](https://www.youtube.com/watch?v=58nAd6gDZKA)
-📺 [Consent is Accountability](https://www.youtube.com/watch?v=ibFFQsNGK9Q)
-📺 [What Does Justice Look Like for Survivors?](https://www.youtube.com/watch?v=-YiN9ANo85c)
-📺 [Everyday Practices of Transformative Justice](https://www.youtube.com/watch?v=F-UE8wwXEtc)
-📺 Emergent Strategy: [Shaping Change, Changing Worlds](https://www.youtube.com/watch?v=h-sCy8SzvHY)
+📺 [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14) <br>
+📺 [Accountability is a love language](https://www.youtube.com/watch?v=zVJgy-uGyw4)<br>
+📺 [What are Obstacles to Accountability?](https://www.youtube.com/watch?v=tRhoaRlyeq8)<br>
+📺 [How to Support Harm Doers in Being Accountable](https://www.youtube.com/watch?v=AhANo6wzBAA)<br>
+📺 [How Shame Can Block Accountability](https://www.youtube.com/watch?v=58nAd6gDZKA)<br>
+📺 [Consent is Accountability](https://www.youtube.com/watch?v=ibFFQsNGK9Q)<br>
+📺 [What Does Justice Look Like for Survivors?](https://www.youtube.com/watch?v=-YiN9ANo85c)<br>
+📺 [Everyday Practices of Transformative Justice](https://www.youtube.com/watch?v=F-UE8wwXEtc)<br>
+📺 Emergent Strategy: [Shaping Change, Changing Worlds](https://www.youtube.com/watch?v=h-sCy8SzvHY)<br>
 
 ### what I'm currently Reading . . .
 + Hyperobjects: Philosophy and Ecology after the End of the World (Posthumanities) - *Timothy Morton*
