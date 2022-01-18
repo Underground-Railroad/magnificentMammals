@@ -44,7 +44,7 @@
 + Emergent Strategy: Shaping Change, Changing Worlds - *adrienne maree Brown*
 
 `on Disability`
-+ We've been too patient 
++ We've been too patient - 25 unflinching stories and essays from the front lines of the radical mental health movement
 + A Queer Disability Anthology - *Raymond Luczac*
 + Care Work: Dreaming Disability Justice - Leah Lakshmi Piepzna- *Samarasinha*
 + Disability Visibility: First-Person Stories from the Twenty-first Century *various contributors*
