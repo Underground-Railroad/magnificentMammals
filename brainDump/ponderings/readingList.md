@@ -137,3 +137,5 @@
 + A relational conflict practice to support trauma accessibility 
 + [Token Economy](https://shermin.net/token-economy-book/) How the web3 invents the internet - [Shermin Voshmgir 🌈 🪐 💫](https://twitter.com/sherminvo)
 + [Indigenous self-government](https://www.ictinc.ca/hubfs/ebooks/eBooks-2021/Indigenous-Self-Government.pdf)
+
+[Published list](https://docs.google.com/document/d/e/2PACX-1vSX-ykPGi5FU1ePPNqOpnlkUE_ci9xIvBeeVXxw7Vpsfp5p-9SltWai6kSMZvQEfYaECHUkp0EYx_xs/pub)
