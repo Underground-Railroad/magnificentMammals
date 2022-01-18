@@ -11,10 +11,11 @@
 
 ## B O O K S 
 `on the art of being mindful`
-+ Wintering: The Power of Rest and Retreat in Difficult Times - *Katherine May*
-+ I Hope We Choose Love: A Trans Girl’s Notes from the End of the World - *Thom, Kai Cheng*
++ Wintering: The Power of Rest and Retreat in Difficult Times - *Katherine May* {we are mammals trying to humxn}
++ I Hope We Choose Love: A Trans Girl’s Notes from the End of the World - *Thom, Kai Cheng* `- preach`
 + The Ethical Slut, Third Edition: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love - *Janet W. Hardy*
 + Unfollow Me: Essays on Complicity - *Jill Louise Busby* 
++ Pleasure Activism - *Adrienne Maree Brown* (this lit rationalizes and equip folx with language to support good times // fails to address accountability and consent to some degree)
 
 `on Trauma / Mental health`
 + The Complex PTSD Workbook: A Mind-Body Approach to Regaining Emotional Control and Becoming Whole - *Schwartz PhD, Arielle*
@@ -41,12 +42,14 @@
 + Emergent Strategy: Shaping Change, Changing Worlds - *adrienne maree Brown*
 
 `on Disability`
++ We've been too patient 
++ A wueer disability anthology - *Raymond Luczac*
 + Care Work: Dreaming Disability Justice - Leah Lakshmi Piepzna-*Samarasinha*
 + Disability Visibility: First-Person Stories from the Twenty-first Century *various contributors*
 
 
 `on Identity [politics]`
-+ How to Be an Antiracist - Ibram X. Kendi
++ How to Be an Antiracist - *Ibram X. Kendi*
 + White Fragility: Why It's So Hard for White People to Talk About Racism - *DiAngelo, Robin*
 + Nice Racism: How Progressive White People Perpetuate Racial Harm - *DiAngelo, Robin*
  
@@ -56,16 +59,19 @@
 + The Faggots and Their Friends Between Revolutions - *Mitchell, Larry*
 
 `on Conflict / Accountability`
++ [Non Violent Communication](https://drive.google.com/file/d/1kKfGQYU0DIrTLSGY82kz9RxROWnjW3-r/view) - *pdf*
 + Fumbling Towards Repair: A Workbook for Community Accountability Facilitators - *Kaba, Mariame*
 + Turn This World Inside Out: The Emergence of Nurturance Culture - *Samaran, Nora*
 + The Revolution Starts at Home: Confronting Intimate Violence Within Activist Communities - *Chen, Ching-In*
 + Healing Resistance: A Radically Different Response to Harm - *Haga, Kazu*
 
 `on poetry`
++ EVERYTHING Rupi Kaur writes! // Homebody especially
 + We Want Our Bodies Back: Poems - *Jessica Care Moore*
 + I Am Phoenix: Poems for Two Voices - *Fleischman, Paul*
 + anything from *Nayyrirah Waheed* 
 + anything from *Mary Oliver*
++ The art of naming my pain from *Kellie Richardson*
 
 `on rituals`
 + Secrets of the Eternal Moon Phase Goddesses: Meditations on Desire, Relationships and the Art of Being Broken - *Peters, Julie*
@@ -107,6 +113,18 @@
 + [The Manifesto of Ontological Design](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107) - Daniel Fraga
 + [HYPERDIMENSIONAL DESIGN](https://bullshit.ist/the-city-in-the-sky-cce8e5871735?source=user_profile---------1-------------------------------)THE INFUSION OF BELIEF AND THE CITY IN THE SKY - Daniel Fraga
 + [VIRTUAL REALITY AND POST ARCHITECTURE](https://bullshit.ist/virtual-reality-and-post-architecture-46cd9be08bf7?source=user_profile---------2-------------------------------) Daniel Fraga
+
+## V I D E O S 
+📺 [What is Accountability?](https://www.youtube.com/watch?v=QZuJ55iGI14)
+📺 [Accountability is a love language](https://www.youtube.com/watch?v=zVJgy-uGyw4)
+📺 [What are Obstacles to Accountability?](https://www.youtube.com/watch?v=tRhoaRlyeq8)
+📺 [How to Support Harm Doers in Being Accountable](https://www.youtube.com/watch?v=AhANo6wzBAA)
+📺 [How Shame Can Block Accountability](https://www.youtube.com/watch?v=58nAd6gDZKA)
+📺 [Consent is Accountability](https://www.youtube.com/watch?v=ibFFQsNGK9Q)
+📺 [What Does Justice Look Like for Survivors?](https://www.youtube.com/watch?v=-YiN9ANo85c)
+📺 [Everyday Practices of Transformative Justice](https://www.youtube.com/watch?v=F-UE8wwXEtc)
+📺 Emergent Strategy: [Shaping Change, Changing Worlds](https://www.youtube.com/watch?v=h-sCy8SzvHY)
+
 ### what I'm currently Reading . . .
 + Hyperobjects: Philosophy and Ecology after the End of the World (Posthumanities) - *Timothy Morton*
 + [Beyond Inclusion, Beyond Empowerment A Developmental Strategy to Liberate Everyone](https://beyondinclusionbeyondempowerment.com/) - *Leticia Nieto* [like a bible / but not cuz ya know religion]
