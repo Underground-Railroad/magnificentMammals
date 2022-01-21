@@ -21,7 +21,7 @@
 + en·vi·ron·ment `psychological` 
   + can be felt, heard, seen
 + en·vi·ron·ment `physical` 
-  + can be felt, heard, seen
+  + can be felt, heard, seen, **remembered** - that last one's unique!
 
 ## Born into oblivion
 > Bless this phase of life, newborns enter the scene.
