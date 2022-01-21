@@ -32,12 +32,12 @@
 **🗝️ L E G E N D**
 |emoji|context|emoji|context|emoji|context|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|📚|book club|🌐|communications|⛑️|care work|
-|💻|Dev Team|🗣️|facilitator|🪙|funding|
-|💰|grant writing|⚖️|governance|🐢🐺🐻|indigenous governance|
-|♂️|mens group|🔭|meta-eth|🤸🏾|playtime|
-|🏳️‍⚧️🏳️‍🌈|QueerAF|🍂|seasonal|🧼|soap-boxes|
-|👥|social|🏛️|town-halls
+|📚|book club|💰|grant writing|🏳️‍⚧️🏳️‍🌈|QueerAF|
+|🌐|communications|⚖️|governance|🍂|seasonal|
+|⛑️|care work|🐢🐺🐻|indigenous governance|🧼|soap-boxes|
+|💻|Dev Team|♂️|mens group|👥|social|
+|🗣️|facilitator|🔭|meta-eth|🏛️|town-halls|
+🪙|funding|🤸🏾|playtime|
 
 
 ## 📚 B O O K + C L U B
