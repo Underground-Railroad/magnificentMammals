@@ -45,27 +45,32 @@ You can view our experimental org structure and its evolutions via this [Miro Bo
 ### Weekly Schedule 
 > Time zone : Pacific Standard Time
 
-## MONDAY
+>  MONDAY
+
 + 10am Dev backlog
 + 11am Dev Team Sprint
 + 2:30 Formula Workshop (*when in session*)
 
-## TUESDAY
+> TUESDAY
+
 + 11am Community Call
 + 2pm social Coding
 
-## WEDNESDAY
+> WEDNESDAY
+
 + 10am Play Time
 + 11am MarComs
 + 12pm Mens Group
 
-## THURSDAY
+> THURSDAY
+
 + 9am Social Coding
 + 11am Tech Support Office Hours
 + 1pm Social Coding
 + 3pm QueerAF
 
-## FRIDAY
+> FRIDAY
+
 + 10am Play Time 
 + 11am Weekly Update
 + 12pm Product Team Governance Meeting
