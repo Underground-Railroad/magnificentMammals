@@ -37,13 +37,13 @@ You can view our experimental org structure and its evolutions via this [Miro Bo
 `Dev Backlog` (mondays @ 10am)
 > A space to discuss priority of dev tasks, as well as flesh them out.
 
-`Dev Team Sprint / Sprint Demos` (tuesdays @ 11am)
+`Dev Team Sprint / Sprint Demos` (mondays @ 11am)
 > The Dev Team invites anyone interested to come see demos of what we've worked on the past week.
 
 `Social Coding` (tuesdays @2pm / thursdays @ 9am & 1pm / fridays @ 1pm)
 > An invitation for Devs to come by the coworking channel and code in parallel or together!
 
-`Tech Support Office Hours`
+`Tech Support Office Hours` (thursdays @ 11am)
 > A time for anyone to get support from our Devs and other technically savvy folks on any technical issues you're experiencing. Some things that can be supported in the space:
 
 - Instance setup / debugging
