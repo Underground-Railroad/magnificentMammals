@@ -57,4 +57,4 @@
 
 ### // TO DO 
 + finish rabbit holing the last terms 
-+ prep for behavior >> a shadow sheet on the rewward system // internal and external environmental overlays
++ prep for behavior >> a shadow sheet on the reward system // internal and external environmental overlays
