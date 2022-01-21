@@ -21,7 +21,7 @@
 |💻|`Social Coding`|tuesdays @2pm / thursdays @ 9am & 1pm / fridays @ 1pm|drop-in|
 |💻|`Tech Support Office Hours`|thursdays @ 11am|Thena|
 |🗣️👥🤸|`Playtime`|wednesdays / fridays @ 10am|Marcie + Ezra|
-|👥|`♂️ Mens Group`|wednesdays @ 12pm|Seth|
+|👥♂️|`Mens Group`|wednesdays @ 12pm|Seth|
 |🗣️🌐|`MarComs`|wednesdays @ 11am|Ezra / Seth / Aloysious / MsMagey|
 |🏳️‍⚧️🏳️‍🌈👥|`QueerAF`|thursdays @ 3pm|Aloysious| 
 |🌐|`Weekly Update`|fridays @ 11am|all hands|
@@ -30,24 +30,21 @@
 
 
 **🗝️ L E G E N D**
-|emoji|context|
-|:--:|:--:|
-|🗣️|facilitator|
-|👥|social|
-|💻|Dev Team|
-|🌐|communications|
-|⚖️|governance|
-|💰|grant writing|
-|🪙|funding|
-|🤸🏾|playtime|
-|📚|book club|
-|⛑️|care work|
-|🏳️‍⚧️🏳️‍🌈|queer time|
+|emoji|context|emoji|context|
+|:--:|:--:|:--:|:--:|
+|🗣️|facilitator|🌐|communications|
+|👥|social|🏛️|town-halls|
+|💻|Dev Team|🔭|meta-eth|
+|⚖️|governance|🐢🐺🐻|indigenous governance|
+|💰|grant writing|🪙|funding|
+|🤸🏾|playtime|📚|book club|
+|⛑️|care work|🧼|soap-boxes|
+|🏳️‍⚧️🏳️‍🌈|queer time|♂️|dude time|
 |🍂|seasonal|
-|🧼|soap-boxes|
-|🏛️|town-halls|
-|🐢🐺🐻|indigenous governance|
-|🔭|meta-eth|
+
+
+
+
 
 ## 📚 B O O K + C L U B
 + [The Return of Book Club](https://discourse.sourcecred.io/t/the-return-of-book-club/1330)
