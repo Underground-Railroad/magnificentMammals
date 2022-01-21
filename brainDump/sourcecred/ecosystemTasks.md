@@ -30,20 +30,14 @@
 
 
 **🗝️ L E G E N D**
-|emoji|context|emoji|context|
-|:--:|:--:|:--:|:--:|
-|🗣️|facilitator|🌐|communications|
-|👥|social|🏛️|town-halls|
-|💻|Dev Team|🔭|meta-eth|
-|⚖️|governance|🐢🐺🐻|indigenous governance|
-|💰|grant writing|🪙|funding|
-|🤸🏾|playtime|📚|book club|
-|⛑️|care work|🧼|soap-boxes|
-|🏳️‍⚧️🏳️‍🌈|queer time|♂️|dude time|
-|🍂|seasonal|
-
-
-
+|emoji|context|emoji|context|emoji|context|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|📚|book club|🌐|communications|⛑️|care work|
+|💻|Dev Team|🗣️|facilitator|🪙|funding|
+|💰|grant writing|⚖️|governance|🐢🐺🐻|indigenous governance|
+|♂️|mens group|🔭|meta-eth|🤸🏾|playtime|
+|🏳️‍⚧️🏳️‍🌈|QueerAF|🍂|seasonal|🧼|soap-boxes|
+|👥|social|🏛️|town-halls
 
 
 ## 📚 B O O K + C L U B
