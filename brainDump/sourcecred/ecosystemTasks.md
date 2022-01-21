@@ -26,7 +26,7 @@
 |🏳️‍⚧️🏳️‍🌈👥|`QueerAF`|thursdays @ 3pm|Aloysious| 
 |🌐|`Weekly Update`|fridays @ 11am|all hands|
 |⚖️💻|`Product Team Governance Meeting`|fridays @ 12pm|Thena / Kevin / Ryeder / Yaz / Magwalk / Hz / Amrro|
-|🗣️🌐|`Ecosystems Department Strategy Meeting`|fridays @ 2pm|Seth|
+|🗣️🌐|`Ecosystems Department Strategy Meeting`|fridays @ 2pm|Seth / kevin / Ryeder / Aloysious|
 
 
 **🗝️ L E G E N D**
