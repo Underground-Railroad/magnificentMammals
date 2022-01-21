@@ -97,7 +97,7 @@ You can view our experimental org structure and its evolutions via this [Miro Bo
 ### Resources
 - [SourceCred Linktree](https://linktr.ee/sourcecred) - Aloysious
 - [SourceCred Calendar](https://calendar.google.com/calendar/u/0/embed?src=ops@sourcecred.io) - Community
-- [Ecosystems Trello](https://trello.com/b/41X6Q7DL/ecosystems-tasks) - LBS
-- [MarComs Domain of Authority]() - LBS, S_ben, Scrabbleboy 
-- [Product Governance]() - Thena, Ryeder, Yaz, Maggie, Hz, Amrro
-- 
+- [Ecosystems Trello](https://trello.com/b/41X6Q7DL/ecosystems-tasks) - LBS, S_ben, Scrabbleboy 
+- [MarComs Domain of Authority](https://roamresearch.com/#/app/SourceCred/page/Fiw4NN-Qe) - LBS, S_ben, Scrabbleboy 
+- [Product Governance](https://discord.com/channels/453243919774253079/631171710800101396/918964072496656405) - Thena, Ryeder, Yaz, Maggie, Hz, Amrro . . .
+- [⚖️ SourceCred CoC](https://docs.google.com/document/d/1xvUeteW1h-nG8gb3seozuUK1vhUdRbDW5BvV9jpIhqk/edit)
