@@ -43,7 +43,7 @@ You can view our experimental org structure and its evolutions via this [Miro Bo
 `Social Coding` (tuesdays @2pm / thursdays @ 9am & 1pm / fridays @ 1pm)
 > An invitation for Devs to come by the coworking channel and code in parallel or together!
 
-`Techh Support Office Hours`
+`Tech Support Office Hours`
 > A time for anyone to get support from our Devs and other technically savvy folks on any technical issues you're experiencing. Some things that can be supported in the space:
 
 - Instance setup / debugging
