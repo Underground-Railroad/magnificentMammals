@@ -5,11 +5,12 @@
 </div>
 
 # Trauma Informed Social and Organizational Design
-
 > random thoughts on the matter // pertaining to web3 + DAO's but also life // bringing personal ideology to the surface 
 > [through my autism]
 >
-> If you learn from me : Cite me // lineage is important // gratitude is a practice
+> If you learn from me : Mention me // lineage is important // gratitude is a practice<br>
+
+*piece I wrote for [SourceCred](https://discourse.sourcecred.io/t/situational-awareness-traversing-the-web-with-a-trauma-informed-lens/1327)*
 
 ### T O O L I N G
 + tech used = map out
@@ -124,3 +125,6 @@
 + more thoughts later..................
 
 > this page is an ongoing work in progress [[ just like my ideologies ]] 🤍
+
+----
+
