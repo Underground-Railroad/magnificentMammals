@@ -42,8 +42,39 @@
 |🐢🐺🐻|indigenous governance|
 |🔭|meta-eth|
 
+## 📚 B O O K + C L U B
++ [The Return of Book Club](https://discourse.sourcecred.io/t/the-return-of-book-club/1330)
++ Emergent Strategy - last book read
+## D E V + T E A M
++ Dev Backlog
++ Dev Team Sprint / Sprint Demos
++ Tech Support Office Hours
+## 🌍 Ecosystems Department Strategy Meeting
++ This is where the Ecosystems Circle will be hashed out
+## ⚖️ G O V E R N A N C E
++ Product Team Governance
++ Two Row Wampum Working Group
+## 🏳️‍⚧🏳️‍🌈 QueerAF
++ were here, were queer, and were just hanging out
 ## M A R C O M S 
-## QueerAF
++ Twitteratti 
+  + Seth
+  + Aloysious
+  + Ben
+  + LotusLeaf 
++ Grant writing
++ storytelling 
++ bridge between devs and co-community relationships 
+## ♂️ M E N S + G R O U P
++ where the fellas hang
+## 🤸 P L A Y T I M E 
++ Marcie + Ezra // facilitate on rotation
+## 🔭 Meta-eth Researchers
++ Ethnographic research
++ operating Research Bot
++ Communications
++ Drop-in Teachings
+
 
 
 ### Resources
