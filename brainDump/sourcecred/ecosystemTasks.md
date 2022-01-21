@@ -8,10 +8,15 @@
 ### Re-Occuring Gatherings . . . 
 |🗝️|event|🗓️|🧵|
 |:--:|:--:|:--:|:--:|
+|🪙|`funding`|as needed|Thena / Seth / Ryeder|
+|💰|`grant writing jams`|Morgan / Gabrielle / Aloysious / Ryeder / Thena / Ben|
+|🏛️|`town halls`|as needed|Yaz / Ezra|
+|📚|`book club`|tbd|Ezra / Ryeder / Harold / Aloysious|
+|🔭|`Meta-eth - Research updates and talks`|tbd|Ellie / Aloysious / Ryeder|
 |💻|`Dev Backlog`|mondays @ 10am|Thena / Kevin / Yaz / Magwalk / Amrro / Hz|
 |💻|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena / Kevin / Yaz / Magwalk / Amrro / Hz|
-|🗣️|`Formula Workshop`|mondays @ 2:30 *when in session*|Willow|
-|🗣️👥|`Community Call`|tuesdays @ 11am|rotation|
+|🗣️🍂|`Formula Workshop`|mondays @ 2:30 *when in session*|Willow|
+|🗣️👥|`Community Call`|tuesdays @ 11am|Nav / Yaz / rotation|
 |🐢🐺🐻|`Two Row Wampum Working Group`|wednesdays @ 4pm|[Longhouse](https://www.facebook.com/longhouse.stuartmyiow)|
 |💻|`Social Coding`|tuesdays @2pm / thursdays @ 9am & 1pm / fridays @ 1pm|drop-in|
 |💻|`Tech Support Office Hours`|thursdays @ 11am|Thena|
@@ -32,6 +37,8 @@
 |💻|Dev Team|
 |🌐|communications|
 |⚖️|governance|
+|💰|grant writing|
+|🪙|funding|
 |🤸🏾|playtime|
 |📚|book club|
 |⛑️|care work|
