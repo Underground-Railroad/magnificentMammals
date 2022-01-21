@@ -172,4 +172,6 @@ This brings me to one of the most activating Environments many of us are finding
 
 Just a few things I have had on my mind. 🙃
 
+---
+
 [Trauma Informed Social and Organizational Design](https://github.com/Underground-Railroad/magnificentMammals/blob/main/brainDump/ponderings/traumaInformedSocialDesign.md) - *initial thoughts for Situational Awareness || Traversing the Web with a Trauma informed lens*
