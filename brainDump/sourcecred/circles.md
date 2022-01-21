@@ -53,7 +53,6 @@ You can view our experimental org structure and its evolutions via this [Miro Bo
 - Internal dev tasks
 
 `Product Team Governance Meeting` (fridays @ 12pm)
-> Find notes [here](https://roamresearch.com/#/app/SourceCred/page/QlXidLKi8)
 
 ----
 
