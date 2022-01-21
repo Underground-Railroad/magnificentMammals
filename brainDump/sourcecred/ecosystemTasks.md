@@ -12,7 +12,7 @@
 |💻|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena / Kevin / Yaz / Magwalk / Amrro / Hz|
 |🗣️|`Formula Workshop`|mondays @ 2:30 *when in session*|Willow|
 |🗣️👥|`Community Call`|tuesdays @ 11am|rotation|
-|🐢🐺🐻|`Two Row Wampum Working Group`|wednesdays @ 4pm|Longhouse|
+|🐢🐺🐻|`Two Row Wampum Working Group`|wednesdays @ 4pm|[Longhouse](https://www.facebook.com/longhouse.stuartmyiow)|
 |💻|`Social Coding`|tuesdays @2pm / thursdays @ 9am & 1pm / fridays @ 1pm|drop-in|
 |💻|`Tech Support Office Hours`|thursdays @ 11am|Thena|
 |🗣️👥🤸|`Playtime`|wednesdays / fridays @ 10am|Marcie + Ezra|
