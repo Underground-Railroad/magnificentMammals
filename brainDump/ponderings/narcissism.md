@@ -88,4 +88,7 @@ off to make up a game outside with my daughter.
 
 we will not forget how to create with our magical minds.
 
- 
+----
+
+📺 [Ignorance & Censorship | Philosophy Tube](https://m.youtube.com/watch?v=ATITdJg7bWI)
+"I was watching a video i think is related to how ignorance is used an a malicious and malignant way to marginalize, oppress and commit atrocities, how the anxiety about learning about hard to swallow subjects could be used" -Hz
