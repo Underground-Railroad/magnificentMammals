@@ -46,3 +46,7 @@ Gulf of Mexico gas pipeline ruptures as shock vid shows an ‘eye of fire’ in 
 
 📺 [watch this bullshvt](https://www.youtube.com/watch?v=lesYCcgsGWA)<br>
 📰 [thesun.co.uk](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFdzT2NUUlNPdU4wdDdwRWlnblVFTHlRRldmUXxBQ3Jtc0ttWkpzcW9pblJPVWJGU2h2MjNCQ3U4VzNiV2JaelRLajYzcEtrMXFBaDZ2Rmh5Zl9ESHdmb1JVU3dhamJDdDUwV2hWYzk1WmhfQ3pCTTBzakdJcDAxNm9aYVlROUkySXN4QVlfWDZBaG8zLXlKWUUtQQ&q=https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F15477174%2Fgulf-of-mexico-eye-of-fire%2F)
+
+
+
+https://www.abc.net.au/news/2021-12-11/survivors-recount-escapes-from-deadly-volcano-eruption/100683284
