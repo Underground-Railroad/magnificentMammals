@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnderground-Railroad%2FmagnificentMammals%2Fblob%2Fmain%2FbrainDump%2Fsourcecred%2Fcircles.md&count_bg=%23FF00C1&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23FF00C1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 ## Ecosystems
 ![ecosystems sociiocratic org chart](https://cdn.discordapp.com/attachments/894474009759084564/933932289606434816/unknown.png)
 
