@@ -59,6 +59,8 @@ The following categories describe patterns of behavior and not necessarily belie
 
 + `alloism` = systemic and systematic prejudice and discrimination against people who are asexual.
 
++ `capitalism` = an economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state. (or people)
+
 + `castesiem`- systematic or systematic oppression, discrimination based on one’s caste // one-sided loyalty in favour of a particular caste. Casteism leads the members of one caste to exploit the members of other caste for their own vested interest in the name of superiority or inferiority.
 
 + `classism` = systemic and systematic prejudice and discrimination based on social or economic class. // Classism is held in place by a system of beliefs and cultural attitudes that ranks people according to economic status, family lineage, job status, level of education, and other divisions.
