@@ -78,6 +78,7 @@ __`Below is a list of other grant programs in the Polkadot/Substrate ecosystem:`
 > Funding Open Source to Grow Open Source 
 
 `What is the scope of these grants?`<br>
+
 We are open to funding anything that improves the Radicle ecosystem or the greater FOSS and Web3 community at large. Generally speaking, we have two categories of grants to do so:
 
 `🌱 Seed Grants`<br>
