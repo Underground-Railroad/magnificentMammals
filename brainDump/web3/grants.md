@@ -5,6 +5,11 @@
  </div>
  
 <h2 align="left">📌 Grants</h2>
+<div align="center">
+
+  ![](https://images.mirror-media.xyz/nft/qOrztC6wOYFQdFh3v5q1n.png)
+
+</div>
 
 ### [**Mirror**](https://mirror.xyz/dashboard/guide/crowdfunds)
 
@@ -66,6 +71,24 @@ __`Below is a list of other grant programs in the Polkadot/Substrate ecosystem:`
 - [Astar / Shiden Network Builders Program](https://github.com/PlasmNetwork/Builders-Program)
 - [Picasso / Composable Grants Program](https://grants.composable.finance/)
 - [SubQuery Grants Programme](https://subquery.network/grants)
+
+<br>
+
+### [Radicle](https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU)
+> Funding Open Source to Grow Open Source 
+
+`What is the scope of these grants?`<br>
+We are open to funding anything that improves the Radicle ecosystem or the greater FOSS and Web3 community at large. Generally speaking, we have two categories of grants to do so:
+
+`🌱 Seed Grants`<br>
++ Seed grants are meant for smaller contributions, both in terms of complexity and cost. These grants are for individuals or small teams looking for less than $50,000 in funding.
+
++ Applications for seed grants are reviewed by the grants committee on a rolling basis. If accepted, applications are then published publicly in our repositories.
+
+`🌲 Tree Grants`<br>
++ Tree grants are meant for larger teams, companies, or foundations working on a contribution larger in scope and complexity. They can provide funding from $50,000 - $500,000.
+
++ Applications for tree grants are reviewed and discussed by the grants committee and community at large on a rolling basis. They may take more time to review.
 
 <br>
 
