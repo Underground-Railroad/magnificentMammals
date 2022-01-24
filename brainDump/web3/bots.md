@@ -100,4 +100,4 @@ There are three elements to input
 3. @username
 
 Looks like this: 
-!set-user-birthday YYYY-MM-DD @username
+!remember-user-birthday YYYY-MM-DD @username
