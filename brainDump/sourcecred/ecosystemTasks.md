@@ -13,16 +13,18 @@
 + Dev Team Sprint / Sprint Demos
 + Tech Support Office Hours
 
+<br>
+
 // TO DO <br>
 
 + Release CredEquate
   + Thena // Amr 
 
 `Valuation Emoji Design and release`<br>
-+ Choose names
-+ icon designs
-+ create icon
-+ upload to server // educate the community
++ ❌ Choose names
++ ❌ icon designs
++ ❌ create icon
++ ❌ upload to server // educate the community
 
 1️⃣ Pay ourselves<br>
 + Track need
@@ -40,8 +42,8 @@
 
 2️⃣ Strategize Dev Recruitment <br>
 + [tapping into the MetaAlliance](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/metaalliance)<br>
-+ Finalize Qualifications // Mags Ezra
-+ Plan compensation strategy // Product Circle
++ ❌ Finalize Qualifications // Mags Ezra
++ ❌ Plan compensation strategy // Product Circle
 
 3️⃣ Try to get matching funding from PL<br>
 
@@ -63,10 +65,12 @@
   + QAF
   + Book club
 
+<br>
 
 // TO DO <br>
 + ❌ BrightId connection parties, setup dapp for SC (onboarding tool- authentication / blockchain)
   + Aloysious / Gabriel / Msmagey / Randall / Bubbles  
++ Pick time for book club
 
 <br>
 <br>
@@ -92,10 +96,12 @@
 + ✨Twitteratti✨ 
   + Seth // Aloysious // Ben // LotusLeaf 
 
+<br>
+
 // TO DO <br>
-+ **Mission Vision Values**
++ ❌ **Mission Vision Values**
  + [🗣️ Facilitated Discussions](https://sites.google.com/d/1GcFICL_5X3RX_JvyLAvh-pSJ7IjR2d_V/p/1bykAxKYMvDaE-ULDiZIcOre0lM9ErE6B/edit)
-+ Grant writing
+> Grant writing<br>
   + Thena // Ryeder // Gabriel // Morgan // Aloysious
   + [Grants](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/grant-writing)
     + [1 | SourceCred algorithm improvement for Advocates STX distributions](https://github.com/stacksgov/Stacks-Grants/issues/215) - stx
@@ -104,7 +110,9 @@
     + [4 | Self-service identities](https://docs.google.com/document/d/1-VqUDgMa3uZFjlhXcwlg9Krj8a8IwfowdUnVOy3vIa0/edit) - stx
     + [5 | Meeting bot Productionization](https://docs.google.com/document/d/1ZG-CCn6vqbVFBLMlmSK0qeZG5AgLlG84KELtiCPTAV0/edit) - stx
     + [6 | Supporting SourceCred Community Growth](https://gitcoin.co/grants/3979/supporting-sourcecred-community) - gitcoin
-+ storytelling 
+      + ❌ cash out // Ryeder 
+      + ❌ reach out to gitcoin rep and ask for best methods and practicies for grant amplification w/in ecosystem // Aloysious
+> storytelling<br> 
 + Seth // Aloysious // Ben // LBS - twitter
   + MsMagey // Gabriel // Morgan 
 + ❌ [Facilitation] create a process for someone else to hold this space 
@@ -122,6 +130,8 @@
 `M E E T I N G S`<br> 
 + QuuerAF
 
+<br>
+
 // TO DO <br>
 + ❌ [Facilitation] create a process for someone else to hold this space
   + single document include facilitation guide / meeting attendance & tempo bot
@@ -137,6 +147,7 @@
 + [The Return of Book Club](https://discourse.sourcecred.io/t/the-return-of-book-club/1330)
 + Emergent Strategy - last book read
 
+<br>
 
 // TO DO
 - ❌ Pick a book // fill out [calendar form](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/book-club) 
@@ -151,6 +162,9 @@
 `M E E T I N G S`<br> 
 + Men's Group
 
+<br>
+
+// TO DO <br>
 + ❌ [Facilitation] create a process for someone else to hold this space
   + single document include facilitation guide / meeting attendance & tempo bot
   + who and how aree newcomers accepted >> process // iintake form.
@@ -171,11 +185,15 @@
 <br>
 
 ## 🔭 Meta-eth Researchers
-+ Create a guide on meta-eth research in our server   
-  + create a medium article about the research process // show of f our science
-+  Ethnographic research
-+ operating Research Bot
-+ Communications
+
+// TO DO <br>
++ Create a guide on meta-eth research in our server  
+  + periodic announcement about active research in the server 
+    + tweet!  
+  + create a medium article about the research process // show off the science
+
+`Ethnographic research`
++ what is the Research Bot? 🔭
 + Drop-in Teachings
 
 ### Re-Occuring Gatherings . . . 
