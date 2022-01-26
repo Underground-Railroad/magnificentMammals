@@ -92,7 +92,7 @@
 
 // TO DO <br>
 + **Mission Vision Values**
- + [:speak:Facilitated Discussions](https://sites.google.com/d/1GcFICL_5X3RX_JvyLAvh-pSJ7IjR2d_V/p/1bykAxKYMvDaE-ULDiZIcOre0lM9ErE6B/edit)
+ + [🗣️ Facilitated Discussions](https://sites.google.com/d/1GcFICL_5X3RX_JvyLAvh-pSJ7IjR2d_V/p/1bykAxKYMvDaE-ULDiZIcOre0lM9ErE6B/edit)
 + Grant writing
   + Thena // Ryeder // Gabrielle // Morgan // Aloysious
   + [Grants](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/grant-writing)
@@ -109,7 +109,8 @@
   + single document include facilitation guide / meeting attendance & tempo bot
 + ❌ Newsletter thang - token gated? Mirror? // NFT = possibillities to auction art while we storytell
 + ❌ [How other communities are using us](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/grant-writing) - Ben // more content desired
-
++ ❌ BrightId // connection parties
+ 
 <br>
 <br>
 
