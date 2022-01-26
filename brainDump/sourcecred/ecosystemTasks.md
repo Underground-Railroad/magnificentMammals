@@ -18,7 +18,7 @@
 ### // TO DO <br>
 
 + Release CredEquate
-  + Thena // Amr 
+  + Thena // Amrro 
 
 `Valuation Emoji Design and release`<br>
 + ❌ Choose names
