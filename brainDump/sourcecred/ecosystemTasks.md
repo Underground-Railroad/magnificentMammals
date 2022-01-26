@@ -66,8 +66,7 @@
 
 // TO DO <br>
 + ❌ BrightId connection parties, setup dapp for SC (onboarding tool- authentication / blockchain)
-  + Aloysious // Gabrielle  
-
+  + Aloysious / Gabriel / Msmagey / Randall / Bubbles  
 
 <br>
 <br>
@@ -97,7 +96,7 @@
 + **Mission Vision Values**
  + [🗣️ Facilitated Discussions](https://sites.google.com/d/1GcFICL_5X3RX_JvyLAvh-pSJ7IjR2d_V/p/1bykAxKYMvDaE-ULDiZIcOre0lM9ErE6B/edit)
 + Grant writing
-  + Thena // Ryeder // Gabrielle // Morgan // Aloysious
+  + Thena // Ryeder // Gabriel // Morgan // Aloysious
   + [Grants](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/grant-writing)
     + [1 | SourceCred algorithm improvement for Advocates STX distributions](https://github.com/stacksgov/Stacks-Grants/issues/215) - stx
     + [2 | Adaptation of the pollen onboarding bot for Stacks](https://docs.google.com/document/d/1aYBhHyJlr2lS6SGc3MleFbrHNVw485vS2P7YKhoPR-4/edit#) - stx
@@ -107,7 +106,7 @@
     + [6 | Supporting SourceCred Community Growth](https://gitcoin.co/grants/3979/supporting-sourcecred-community) - gitcoin
 + storytelling 
 + Seth // Aloysious // Ben // LBS - twitter
-  + MsMagey // Gabrielle // Morgan 
+  + MsMagey // Gabriel // Morgan 
 + ❌ [Facilitation] create a process for someone else to hold this space 
   + single document include facilitation guide / meeting attendance & tempo bot
 + ❌ Newsletter thang - token gated? Mirror? // NFT = possibillities to auction art while we storytell
@@ -183,24 +182,26 @@
 |🗝️|event|🗓️|🧵|
 |:--:|:--:|:--:|:--:|
 |🪙|`funding`|as needed|Thena / Seth / Ryeder|
-|💰|`grant writing jams`|Morgan / Gabrielle / Aloysious / Ryeder / Thena / Ben|
-|🏛️|`town halls`|as needed|Yaz / Ezra|
-|📚|`book club`|tbd|Ezra / Ryeder / Harold / Aloysious|
-|🔭|`Meta-eth - Research updates and talks`|tbd|Ellie / Aloysious / Ryeder|
+|💰|`grant writing jams`|asynch|Morgan / Gabriel / Aloysious / Ryeder / Thena / Ben|
+|🏛️🗣️👥|`town halls`|as needed|Yaz / Ezra|
+|📚🗣️👥|`book club`|tbd|Ezra / Ryeder / Harold / Aloysious|
+|🧼🗣️👥|`soap-boxes`|tbd|[as the need arises] Ryeder|
+|🔭|`Meta-eth - Research updates and talks`|tbd|Ellie / Campbell  / Aloysious / Ryeder|
 |💻|`Dev Backlog`|mondays @ 10am|Thena / Kevin / Yaz / Magwalk / Amrro / Hz|
-|💻|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena / Kevin / Yaz / Magwalk / Amrro / Hz|
-|🗣️🍂|`Formula Workshop`|mondays @ 2:30 *when in session*|Willow|
+|💻|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena / Kevin / Yaz / Magwalk / Amrro / Msmagey|
+|🍂🗣️|`Formula Workshop`|mondays @ 2:30 *when in session*|Willow|
 |🗣️👥|`Community Call`|tuesdays @ 11am|Nav / Yaz / rotation|
+|🌐🗣️|`Weekly Scrum`|tuesdays @130pm|Seth / Willow / Zevi / Ezra / Rachelll / Morgan / Thena / Ryeder / Amrro|
 |🐢🐺🐻|`Two Row Wampum Working Group`|wednesdays @ 4pm|[Longhouse](https://www.facebook.com/longhouse.stuartmyiow)|
-|💻|`Social Coding`|tuesdays @2pm / thursdays @ 9am & 1pm / fridays @ 1pm|drop-in|
+|💻👥|`Social Coding`|tuesdays @2pm / thursdays @ 9am & 1pm / fridays @ 1pm|drop-in|
 |💻|`Tech Support Office Hours`|thursdays @ 11am|Thena|
-|🗣️👥🤸|`Playtime`|wednesdays / fridays @ 10am|Marcie + Ezra|
-|👥♂️|`Mens Group`|wednesdays @ 12pm|Seth|
-|🗣️🌐|`MarComs`|wednesdays @ 11am|Ezra / Seth / Aloysious / MsMagey|
-|🏳️‍⚧️🏳️‍🌈👥|`QueerAF`|thursdays @ 3pm|Aloysious| 
-|🌐|`Weekly Update`|fridays @ 11am|all hands|
+|🤸🗣️👥|`Playtime`|wednesdays / fridays @ 10am|Marcie + Ezra|
+|♂️👥|`Mens Group`|wednesdays @ 12pm|Seth|
+|🌐🗣️|`MarComs`|wednesdays @ 11am|Ezra / Seth / Aloysious / Ben / MsMagey / Lotusleaf / Gabriel / Paulmullins / Hz|
+|🏳️‍⚧️🏳️‍🌈👥|`QueerAF`|thursdays @ 3pm|Aloysious / Magwalk| 
+|🌐|`Weekly Update`|fridays @ 11am|all hands - Ezra / Ryeder / Yaz|
 |⚖️💻|`Product Team Governance Meeting`|fridays @ 12pm|Thena / Kevin / Ryeder / Yaz / Magwalk / Hz / Amrro|
-|🗣️🌐|`Ecosystems Department Strategy Meeting`|fridays @ 2pm|Seth / kevin / Ryeder / Aloysious|
+|🌐🗣️|`Ecosystems Department Strategy Meeting`|fridays @ 2pm|Seth / kevin / Ryeder / Aloysious|
 
 
 **🗝️ L E G E N D**
