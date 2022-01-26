@@ -15,7 +15,7 @@
 
 <br>
 
-// TO DO <br>
+### // TO DO <br>
 
 + Release CredEquate
   + Thena // Amr 
@@ -67,10 +67,10 @@
 
 <br>
 
-// TO DO <br>
+### // TO DO <br>
 + ❌ BrightId connection parties, setup dapp for SC (onboarding tool- authentication / blockchain)
   + Aloysious / Gabriel / Msmagey / Randall / Bubbles  
-+ Pick time for book club
++ ❌ Pick time for book club
 
 <br>
 <br>
@@ -98,7 +98,7 @@
 
 <br>
 
-// TO DO <br>
+### // TO DO <br>v
 + ❌ **Mission Vision Values**
  + [🗣️ Facilitated Discussions](https://sites.google.com/d/1GcFICL_5X3RX_JvyLAvh-pSJ7IjR2d_V/p/1bykAxKYMvDaE-ULDiZIcOre0lM9ErE6B/edit)
 > Grant writing<br>
@@ -120,6 +120,7 @@
 + ❌ Newsletter thang - token gated? Mirror? // NFT = possibillities to auction art while we storytell
 + ❌ [How other communities are using us](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/grant-writing) - Ben // more content desired
 + ❌ BrightId // connection parties
+  + Aloysious // Gabriel // Msmagey // Randall // Bubbles   
  
 <br>
 <br>
@@ -132,7 +133,7 @@
 
 <br>
 
-// TO DO <br>
+### // TO DO <br>
 + ❌ [Facilitation] create a process for someone else to hold this space
   + single document include facilitation guide / meeting attendance & tempo bot
 
@@ -149,7 +150,7 @@
 
 <br>
 
-// TO DO
+### // TO DO <br>
 - ❌ Pick a book // fill out [calendar form](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/book-club) 
 - ❌ [Pick a date / Time](https://www.google.com/url?q=https%3A%2F%2Fdoodle.com%2Fpoll%2Fq7txtp7zcyzz5fik%23calendar&sa=D&sntz=1&usg=AFQjCNFLFxPephvGiQxB0brgzZUPMhrVpg)
 
@@ -164,7 +165,7 @@
 
 <br>
 
-// TO DO <br>
+### // TO DO <br>
 + ❌ [Facilitation] create a process for someone else to hold this space
   + single document include facilitation guide / meeting attendance & tempo bot
   + who and how aree newcomers accepted >> process // iintake form.
@@ -176,8 +177,9 @@
 
 `M E E T I N G S`<br> 
 + Playtime
-
 + Marcie + Ezra // facilitate on rotation
+
+### // TO DO <br>
 + ❌ [Facilitation] create a process for someone else to hold this space
   + single document include facilitation guide / meeting attendance & tempo bot
 
@@ -186,13 +188,13 @@
 
 ## 🔭 Meta-eth Researchers
 
-// TO DO <br>
+### // TO DO <br>
 + Create a guide on meta-eth research in our server  
-  + periodic announcement about active research in the server 
+  + periodic announcement about active research in the server to server community to inform newcomers
     + tweet!  
-  + create a medium article about the research process // show off the science
+  + create a medium or mirror article about the research process // show off the science
 
-`Ethnographic research`
+`Ethnographic research`<br>
 + what is the Research Bot? 🔭
 + Drop-in Teachings
 
@@ -208,7 +210,7 @@
 |💻|`Dev Backlog`|mondays @ 10am|Thena / Kevin / Yaz / Magwalk / Amrro / Hz|
 |💻|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena / Kevin / Yaz / Magwalk / Amrro / Msmagey|
 |🍂🗣️|`Formula Workshop`|mondays @ 2:30 *when in session*|Willow|
-|🗣️👥|`Community Call`|tuesdays @ 11am|Nav / Yaz / rotation|
+|🗣️👥|`Community Call`|tuesdays @ 11am|Yaz / Nav // rotation|
 |🌐🗣️|`Weekly Scrum`|tuesdays @130pm|Seth / Willow / Zevi / Ezra / Rachelll / Morgan / Thena / Ryeder / Amrro|
 |🐢🐺🐻|`Two Row Wampum Working Group`|wednesdays @ 4pm|[Longhouse](https://www.facebook.com/longhouse.stuartmyiow)|
 |💻👥|`Social Coding`|tuesdays @2pm / thursdays @ 9am & 1pm / fridays @ 1pm|drop-in|
