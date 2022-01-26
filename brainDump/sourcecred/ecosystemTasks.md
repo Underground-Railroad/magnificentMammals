@@ -26,17 +26,17 @@
 
 1️⃣ Pay ourselves<br>
 + Track need
-  + Do we need to airdrop? 
-+ Do we need to coordinate mutual aid?   
+  + ❔ Do we need to airdrop? 
+  + ❔ Do we need to coordinate mutual aid?   
 
 `Try to get matching funding from PL`<br>
 + ❌ Support Ben's capacity - Take Maker off his hands // Ryeder? Willow? 
 + ❌ Take SC Treasury off his hands // Ezra // Willow / Ben<br>
 
 `Finalize and ratify an allocation proposal`<br>
-+ Collect + integrate feedback // Ezra
-+ Run simulations // Thena
-+ Ratify (poll bot) // Ryeder
++ ❌ Collect + integrate feedback // Ezra
++ ❌ Run simulations // Thena
++ ❌ Ratify (poll bot) // Ryeder
 
 2️⃣ Strategize Dev Recruitment <br>
 + [tapping into the MetaAlliance](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/metaalliance)<br>
@@ -65,6 +65,9 @@
 
 
 // TO DO <br>
++ ❌ BrightId connection parties, setup dapp for SC (onboarding tool- authentication / blockchain)
+  + Aloysious // Gabrielle  
+
 
 <br>
 <br>
