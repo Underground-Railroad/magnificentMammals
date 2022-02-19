@@ -93,6 +93,17 @@ We are open to funding anything that improves the Radicle ecosystem or the great
 
 <br>
 
+## Other Stuff
+
+[Panvala](https://panvala.com/)
+> Panvala's treasury is a new kind of community-managed endowment—like a university endowment. PAN tokens are designed to build this endowment from scratch: the more we share Panvala's treasury, the stronger it gets. By giving communities an economic tool that rivals corporate equity and national currencies, we can shift our society's focus away from corporate life and political life. Let's focus on community life instead.
+> + Something I wrote about Panvala: [Panvala a Co Community Exploration](https://discourse.sourcecred.io/t/panvala-a-co-community-exploration/1228) 
+
+[Angel Protocol](https://www.angelprotocol.io/)
+> Endowments are the future of giving Less than 60% of charities have enough saved in their reserves to cover more than one year of operating costs. Angel Protocol plays a critical role in solving this challenge.
+>
+> Endowments are a powerful tool that charities use to grow their donations. However, traditional endowments can be expensive to set up, access, and maintain. Angel Protocol has developed a platform providing easy access to low-risk, high-yield endowments that provide charities financial freedom. Donors give once, and give forever.
+
 ---
 
 <br>
