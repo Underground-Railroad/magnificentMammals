@@ -28,7 +28,7 @@
 - "Millions in open source project funding - We've helped thousands of projects and teams grow their open source ecosystems." 
 - [create a grant](https://gitcoin.co/grants/new)
 
-### [**Hyperscale**](https://www.hyperscalefund.com/) [[They're building a DAO directory 👀]]
+### [**Hyperscale**](https://www.hyperscalefund.com/) [[They're building a DAO directory 👀]] >> IS THIS ONE A SCAM???
 
 - Fast funding for web3 projects
   Receive up to $1M by competing in the DAO Race. Join in 5 min and be voted on by the DAO. Takes 5 mins to fill out - get up to $1M in funding.
