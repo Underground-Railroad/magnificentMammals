@@ -1,4 +1,11 @@
- <div align="center">
+<div align="right">
+ 
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhhttps%3A%2F%2Fgithub.com%2FUnderground-Railroad%2FmagnificentMammals%2Fblob%2Fmain%2FbrainDump%2Fmanifestations%2FauthenticRelating.mdit-counter&count_bg=%23FF00B3&title_bg=%23555555&icon=probot.svg&icon_color=%23FF00B3&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+ 
+</div>
+<div align="center">
 
 ![](https://polywork-production.imgix.net/1n19f03kbuikzx8vhe1elvsp0dqw?ixlib=rails-4.2.0&w=650&auto=format&dpr=1&q=75)
  
