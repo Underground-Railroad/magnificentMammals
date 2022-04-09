@@ -8,7 +8,20 @@ Everyone in the world had a social score relative to thier negative impact?
 - fire someone? - points
 - support genocu=ide? - points [I'm looking at the military and police directly here]
 
-## > extracting from your environment will now have negative impacts.
+![taken](https://media.giphy.com/media/LPCb701JDUjbXunSVb/giphy.gif) ![](https://media.giphy.com/media/jjYGVvxgQSTsc/giphy.gif)
+
+> extracting from your environment will now harvest negative social impacts.
+
+<br>
+<br>
+
+# moody end of daze shvt
+
+<div align="right">
+
+![boom](https://media.giphy.com/media/hvGKQL8lasDvIlWRBC/giphy.gif)
+
+</div>
 
 I dream of a world where people operate from a place of choice.
 
@@ -36,7 +49,17 @@ These are dark days.
 
 It is understandable for people to feel so deregulated afterall thier realities [identities] are being held hostage. 
 
+![image](https://user-images.githubusercontent.com/75811965/162563177-0216a000-1c72-4cef-88df-afd9755a9c61.png)
+
+![image](https://user-images.githubusercontent.com/75811965/162563093-7d6245c6-d669-4855-b274-9f257d4a2d93.png)
+- [magnetic storm](https://tech.hindustantimes.com/tech/news/canyon-of-fire-erupts-on-the-sun-set-to-spark-geomagnetic-storm-on-earth-71649479082720.html) *HT Tech*
+
+
 ### The caste systems that oppress us are constructed by our collective imaginations.
 
 humxns are fvcking i n c r e d i b l e. 
+
+fun fact // when i have had feelings about the weather...I can cross reference them with [space activity](https://youtu.be/SxU6Lv30DuQ). 
+
+fvcking made of stars and earth out here coregulating wayyyyy too much with my ecosystems boi howdy.
 
