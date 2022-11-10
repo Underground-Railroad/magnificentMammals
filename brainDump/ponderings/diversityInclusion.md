@@ -17,7 +17,7 @@ we are all diverse like fingerprints we all have unique makeups.
 
 If you want to design for diversity you have to design for who is present. 
 
-what are the needs of all presrent? design for that
+what are the needs of all present? design for that
 
 when new people join ask them if they need more than what is present to feel belonging.
 
