@@ -76,7 +76,12 @@ These people use their empathy to tune in to what pleases you, and in doing so, 
 
 **The hero-worshipper:** Needs to have a person or guru to follow.  Likely emerges from an inner child wound made by a caretaker who was perceived superhuman, without faults.  Believes that the only way to receive love is to reject their own needs and desires and view others as a model to learn how to live.
 
-Each type of inner child archetype has one thing in common: **they were born from broken connections and unmet emotional needs.**
+Each type of inner child archetype has one thing in common: **they were born from broken connections and unmet emotional needs.** 
+
+All these ways of being are simply social survival skills despite thier cringeyness.
+
+
+------
 
 ## How Narcissism is baked into our culture?
 
