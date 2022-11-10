@@ -57,6 +57,27 @@ These people use their empathy to tune in to what pleases you, and in doing so, 
 
 - If we want to do a good deed, we do it quietly. We do it because we know it’s the right thing to do. But a communal narcissist does it for show. A narcissist only cares for their image in the eyes of the world, rather than how they make everyone else feel.
 
+-------
+
+## *7 Inner Child Archetypes*
+ **as defined by Dr. LePera in her book, *How to Do the Work:***
+
+**The caretaker:** Typically comes from codependent dynamics.  Gains a sense of identity and self-worth through neglecting their own needs.  Believes that the only way to receive love is to cater to others and ignore their own needs.
+
+**The overachiever:** Feels seen, heard, and valued through success and achievement.  Uses external validation as a way to cope with low self-worth.  Believes that the only way to receive love is through achievement.
+
+**The underachiever** Keeps themselves small, unseen, and beneath their potential due to the fear of criticism or shame of failure.  Takes themselves out of the emotional game before it’s ever played.  Believes that the only way to receive love is to stay invisible.
+
+**The rescuer/protector:** Ferociously attempts to rescue those around them in an attempt to heal from their own vulnerability, especially childhood.  Views others as helpless, incapable, and dependent and derives their love and self-worth from being in a position of power.  Believes that the only way to receive love is to help others by focusing on their wants and needs and helping to solve their problems.
+
+**The life of the party:** This is the always happy and cheerful comedic person who never shows pain, weakness, or vulnerability.  It’s likely that this inner child was shamed for their emotional state.  Believes the only way to feel okay and receive love is to make sure that everyone around them is happy.
+
+**The yes-person:** Drops everything and neglects all needs in the service of others.  Was likely modeled self-sacrifice in childhood and engaged in deep codependency patterns, much as the caretaker did.  Believes that the only way to receive love is to be both good and selfless.
+
+**The hero-worshipper:** Needs to have a person or guru to follow.  Likely emerges from an inner child wound made by a caretaker who was perceived superhuman, without faults.  Believes that the only way to receive love is to reject their own needs and desires and view others as a model to learn how to live.
+
+Each type of inner child archetype has one thing in common: **they were born from broken connections and unmet emotional needs.**
+
 ## How Narcissism is baked into our culture?
 
 `we like to keep it in the family`
