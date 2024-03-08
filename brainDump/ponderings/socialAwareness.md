@@ -103,21 +103,3 @@ The following categories describe patterns of behavior and not necessarily belie
 `depletion of resources`- [*wiki*](https://en.wikipedia.org/wiki/Resource_depletion)
 + is the consumption of a resource faster than it can be replenished. Natural resources are commonly divided between renewable resources and non-renewable resources (see also [mineral resource classification](https://en.wikipedia.org/wiki/Mineral_resource_classification)). Use of either of these forms of resources beyond their rate of replacement is considered to be resource depletion.The value of a resource is a direct result of its availability in nature and the cost of extracting the resource, the more a resource is depleted the more the value of the resource increases. There are several types of resource depletion, the most known being: Aquifer depletion, deforestation, mining for fossil fuels and minerals, pollution or contamination of resources, slash-and-burn agricultural practices, soil erosion, and overconsumption, excessive or unnecessary use of resources.
 
-
-// TO DO 
-
-`unsustainable complexity`- [*wiki*](xxx) 
-
-`invasion`- [*wiki*](xxx) 
-
-`disease`- [*wiki*](xxx) 
-
-`decay of social cohesion`- [*wiki*](xxx) 
-
-`rising inequality`- [*wiki*](xxx) 
-
-`secular decline of cognitive abilities`- [*wiki*](xxx)
-
-`loss of creativity`- [*wiki*](xxx)
-
-`misfortune`- [*wiki*](xxx)
