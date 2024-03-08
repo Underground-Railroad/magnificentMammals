@@ -14,7 +14,7 @@
   </div>
 
 ## What nodes define the outcome of social awareness?
-+ Brain development // not to be confused with age and the correlation to maturity ( social constructs )
++ Brain development // not to be confused with age and the correlation to maturity ( social constructs / biological, environmental factors)
 
 + en·vi·ron·ment `biological` 
   + toxins in ecosysytem >> can be absorbed, felt, inhaled, heard, seen, tasted
